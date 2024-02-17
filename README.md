@@ -1,1 +1,1 @@
-# 545-Data-Curation-Repisitory
+# 545-Data-Curation-Repository
