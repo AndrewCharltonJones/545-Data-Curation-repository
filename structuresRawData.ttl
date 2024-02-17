@@ -1,0 +1,3094 @@
+@prefix ecpo: <http://purl.org/ontology/ecpo#> .
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix juso: <http://rdfs.co/juso/> .
+@prefix r-arco: <https://w3id.org/arco/ontology/arco/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+<https://pepadb.us.es/#opendatalicensing>
+    dcterms:license <https://creativecommons.org/licenses/by-nc-sa/4.0/> .
+    
+<https://pepadb.us.es/#structure_0> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS4008";
+r-arco:archaeologicalSiteIdentifier "379";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova da Moura";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Torres Vedras - São Pedro da Cadeira";
+a "Natural cave";
+ecpo:hasChronology "4th-2nd" .
+<https://pepadb.us.es/#structure_1> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SET15004";
+r-arco:archaeologicalSiteIdentifier "377";
+<https://pepadb.us.es/#archaeologicalStructure> "Grutas da Quinta do Anjo 3 - Grutas do Casal do Pardo 3 - Covas da Moura 3";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Setúbal";
+juso:SecondLevelAdministrativeDivision "Palmela - Quinta do Anjo";
+a "Artificial cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_2> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND01017";
+r-arco:archaeologicalSiteIdentifier "378";
+<https://pepadb.us.es/#archaeologicalStructure> "Fuente Álamo - Tumba 111";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Almería";
+juso:SecondLevelAdministrativeDivision "Cuevas del Almanzora";
+a "Pithos";
+ecpo:hasChronology "3rd-2th" .
+<https://pepadb.us.es/#structure_3> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3773";
+r-arco:archaeologicalSiteIdentifier "376";
+<https://pepadb.us.es/#archaeologicalStructure> "Praia da Samarra";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Sintra - São João das Lampas e Terrugem";
+a "Tholos";
+ecpo:hasChronology "3rd-2th" .
+<https://pepadb.us.es/#structure_4> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SET15001";
+<https://pepadb.us.es/#archaeologicalStructure> "Grutas da Quinta do Anjo - Grutas do Casal do Pardo - Covas da Moura";
+r-arco:archaeologicalSiteIdentifier "377";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Setúbal";
+juso:SecondLevelAdministrativeDivision "Palmela - Quinta do Anjo";
+a "Artificial cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_5> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0007";
+r-arco:archaeologicalSiteIdentifier "48";
+<https://pepadb.us.es/#archaeologicalStructure> "Baume de La Roche";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Doubs ";
+juso:SecondLevelAdministrativeDivision "Sancey-le-Long";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_6> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0001";
+r-arco:archaeologicalSiteIdentifier "13";
+<https://pepadb.us.es/#archaeologicalStructure> "Arras A4 - The Queen Barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Yorkshire - East Riding";
+juso:SecondLevelAdministrativeDivision "Market Weighton";
+a "Barrow";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_7> juso:SecondLevelAdministrativeDivision "Market Weighton";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0002";
+r-arco:archaeologicalSiteIdentifier "13";
+<https://pepadb.us.es/#archaeologicalStructure> "Arras barrow W57";
+juso:FirstLevelAdministrativeDivision "Yorkshire - East Riding";
+a "Barrow";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_8> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02002";
+r-arco:archaeologicalSiteIdentifier "14";
+<https://pepadb.us.es/#archaeologicalStructure> "Arroyal I";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Alfoz de Quintanadueñas";
+a "Passage grave";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_9> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02011";
+r-arco:archaeologicalSiteIdentifier "15";
+<https://pepadb.us.es/#archaeologicalStructure> "Arroyo de las Vegas";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Sargentes de la Lora";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_10> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0033";
+r-arco:archaeologicalSiteIdentifier "34";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow Abney Moor";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Derbyshire";
+juso:SecondLevelAdministrativeDivision "Abney";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_11> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0013";
+r-arco:archaeologicalSiteIdentifier "35";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow Aldbourne G6";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Aldbourne";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_12> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0015";
+r-arco:archaeologicalSiteIdentifier "36";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G 48";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Amesbury";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_13> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0016";
+r-arco:archaeologicalSiteIdentifier "36";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G 54";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Amesbury";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_14> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0018";
+r-arco:archaeologicalSiteIdentifier "37";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G1 - Newton Barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "South Newton";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_15> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0023";
+r-arco:archaeologicalSiteIdentifier "41";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G16 - Normanton Group";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Salisbury";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_16> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0017";
+r-arco:archaeologicalSiteIdentifier "42";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G1a - The Manton Barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Preshute";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_17> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS19452";
+r-arco:archaeologicalSiteIdentifier "50";
+<https://pepadb.us.es/#archaeologicalStructure> "Bela Vista";
+lgdo:Country "Portugal";
+a "Tholos";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Sintra - Sintra";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_18> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND08012";
+r-arco:archaeologicalSiteIdentifier "75";
+<https://pepadb.us.es/#archaeologicalStructure> "Caño Ronco I";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Sevilla";
+juso:SecondLevelAdministrativeDivision "Camas";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_19> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL07001";
+r-arco:archaeologicalSiteIdentifier "76";
+<https://pepadb.us.es/#archaeologicalStructure> "Casetón de la Era";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Valladolid";
+juso:SecondLevelAdministrativeDivision "Villalba de los Alcores";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_20> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS597-2";
+r-arco:archaeologicalSiteIdentifier "285";
+<https://pepadb.us.es/#archaeologicalStructure> "Perdigões - T2";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Évora";
+juso:SecondLevelAdministrativeDivision "Reguengos de Monsaraz - Reguengos de Monsaraz";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_21> lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Costamar T31002";
+juso:SecondLevelAdministrativeDivision "Cabanes";
+r-arco:archaeologicalSiteIdentifier "380";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CVL02012";
+juso:FirstLevelAdministrativeDivision "Castellón";
+a "Pit";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_22> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS616";
+r-arco:archaeologicalSiteIdentifier "92";
+<https://pepadb.us.es/#archaeologicalStructure> "Comenda da Igreja 1";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Évora";
+juso:SecondLevelAdministrativeDivision "Montemor-o-Novo-Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_23> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0009";
+r-arco:archaeologicalSiteIdentifier "53";
+<https://pepadb.us.es/#archaeologicalStructure> "Berrias";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Ardèche";
+juso:SecondLevelAdministrativeDivision "Chandolas ";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_24> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0030";
+r-arco:archaeologicalSiteIdentifier "381";
+<https://pepadb.us.es/#archaeologicalStructure> "Villevenard";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Marne";
+juso:SecondLevelAdministrativeDivision "Villevenard";
+a "Hypogeum";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_25> <https://pepadb.us.es/#archaeologicalStructure> "Barrow Aldbourne G3";
+ecpo:hasChronology "3rd-2nd";
+a "Barrow";
+juso:SecondLevelAdministrativeDivision "Aldbourne";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+r-arco:archaeologicalSiteIdentifier "35";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0024";
+lgdo:Country "England" .
+<https://pepadb.us.es/#structure_26> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0025";
+r-arco:archaeologicalSiteIdentifier "36";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G 46";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Amesbury";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_27> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01034";
+r-arco:archaeologicalSiteIdentifier "372";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova Can Figueres";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Barcelona";
+juso:SecondLevelAdministrativeDivision "Begues";
+a "Natural cave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_28> r-arco:archaeologicalSiteIdentifier "110";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Cueva de Casla";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL05003";
+juso:FirstLevelAdministrativeDivision "Segovia";
+juso:SecondLevelAdministrativeDivision "Casla";
+a "Natural cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_29> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0003";
+r-arco:archaeologicalSiteIdentifier "16";
+<https://pepadb.us.es/#archaeologicalStructure> "Ashville Trading Estate";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Gloucestershire";
+juso:SecondLevelAdministrativeDivision "Cheltenham";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_30> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0037";
+r-arco:archaeologicalSiteIdentifier "58";
+<https://pepadb.us.es/#archaeologicalStructure> "Blackheath Barrow - Blackheath Cross";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "West Yorkshire";
+juso:SecondLevelAdministrativeDivision "Todmorden";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_31> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "MUR002";
+r-arco:archaeologicalSiteIdentifier "59";
+<https://pepadb.us.es/#archaeologicalStructure> "Blanquizares de Lébor";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Murcia";
+juso:SecondLevelAdministrativeDivision "Totana";
+a "Hypogeum";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_32> <https://pepadb.us.es/#archaeologicalStructure> "Blawearie cairn - Old Bewick";
+lgdo:Country "England";
+a "Cairn";
+juso:FirstLevelAdministrativeDivision "Northumberland";
+juso:SecondLevelAdministrativeDivision "Bewick";
+r-arco:archaeologicalSiteIdentifier "60";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0038";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_33> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0005";
+r-arco:archaeologicalSiteIdentifier "61";
+<https://pepadb.us.es/#archaeologicalStructure> "Blinmill Farm";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+juso:SecondLevelAdministrativeDivision "Auchterless";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_34> <https://pepadb.us.es/#archaeologicalStructure> "Boscregan - Carn Creis - Barrow III";
+a "Barrow";
+juso:FirstLevelAdministrativeDivision "Cornwall";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0039";
+r-arco:archaeologicalSiteIdentifier "63";
+juso:SecondLevelAdministrativeDivision "Saint Just";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_35> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0006";
+r-arco:archaeologicalSiteIdentifier "66";
+<https://pepadb.us.es/#archaeologicalStructure> "Burntisland";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Fife";
+juso:SecondLevelAdministrativeDivision "Burntisland";
+a "Barrow";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_36> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS22983";
+r-arco:archaeologicalSiteIdentifier "68";
+<https://pepadb.us.es/#archaeologicalStructure> "Cabecinho de Capitõa";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Mafra - Igreja Nova e Cheleiros";
+a "Pit";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_37> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3201";
+r-arco:archaeologicalSiteIdentifier "81";
+<https://pepadb.us.es/#archaeologicalStructure> "Cavaleiros 1 - Anta da Capela";
+juso:FirstLevelAdministrativeDivision "Portalegre";
+lgdo:Country "Portugal";
+juso:SecondLevelAdministrativeDivision "Avis - Benavila e Valongo";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_38> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM02003";
+r-arco:archaeologicalSiteIdentifier "83";
+<https://pepadb.us.es/#archaeologicalStructure> "Cerro Ortega";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Ciudad Real";
+juso:SecondLevelAdministrativeDivision "Villanueva de la Fuente";
+a "Shelter";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_39> ecpo:hasChronology "4th-3rd";
+a "Passage grave";
+<https://pepadb.us.es/#archaeologicalStructure> "Ciella";
+juso:SecondLevelAdministrativeDivision "Valle de Sedano";
+lgdo:Country "Spain";
+r-arco:archaeologicalSiteIdentifier "87";
+juso:FirstLevelAdministrativeDivision "Burgos";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02010" .
+<https://pepadb.us.es/#structure_40> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS5452";
+r-arco:archaeologicalSiteIdentifier "94";
+<https://pepadb.us.es/#archaeologicalStructure> "Corôa do Frade";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Évora";
+juso:SecondLevelAdministrativeDivision "Évora - Nossa Senhora da Tourega e Nossa Senhora de Guadalupe";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_41> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND04021";
+r-arco:archaeologicalSiteIdentifier "112";
+<https://pepadb.us.es/#archaeologicalStructure> "Cueva de las Ventanas";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Granada";
+juso:SecondLevelAdministrativeDivision "Piñar";
+a "Natural cave";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_42> juso:FirstLevelAdministrativeDivision "Yorkshire - East Riding";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0041";
+r-arco:archaeologicalSiteIdentifier "117";
+<https://pepadb.us.es/#archaeologicalStructure> "Danes Graves - Barrow 5";
+juso:SecondLevelAdministrativeDivision "Nafferton ";
+a "Barrow";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_43> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM04001";
+r-arco:archaeologicalSiteIdentifier "133";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen Portillo de las Cortes";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Guadalajara";
+juso:SecondLevelAdministrativeDivision "Anguita";
+a "Dolmen";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_44> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08002";
+r-arco:archaeologicalSiteIdentifier "151";
+<https://pepadb.us.es/#archaeologicalStructure> "El Tesoro";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Morales de Rey";
+a "Passage grave";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_45> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL01003";
+r-arco:archaeologicalSiteIdentifier "152";
+<https://pepadb.us.es/#archaeologicalStructure> "El Tomillar";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Ávila";
+juso:SecondLevelAdministrativeDivision "Bercial de Zapardiel";
+a "Pit";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_46> lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Norfolk";
+juso:SecondLevelAdministrativeDivision "Bessingham";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0036";
+<https://pepadb.us.es/#archaeologicalStructure> "Bessingham";
+r-arco:archaeologicalSiteIdentifier "54";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_47> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0057";
+r-arco:archaeologicalSiteIdentifier "223";
+<https://pepadb.us.es/#archaeologicalStructure> "La Motte-aux-Magnins";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Jura";
+juso:SecondLevelAdministrativeDivision "Clairvaux-les-Lacs";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_48> ecpo:hasChronology "2nd";
+r-arco:archaeologicalSiteIdentifier "212";
+<https://pepadb.us.es/#archaeologicalStructure> "Koukounara";
+juso:FirstLevelAdministrativeDivision "Messenia";
+lgdo:Country "Greece";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0015";
+juso:SecondLevelAdministrativeDivision "Pylos" .
+<https://pepadb.us.es/#structure_49> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0012";
+r-arco:archaeologicalSiteIdentifier "275";
+<https://pepadb.us.es/#archaeologicalStructure> "Olmo di Nogara";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Verona ";
+juso:SecondLevelAdministrativeDivision "Nogara";
+a "Necropolis";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_50> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02003";
+r-arco:archaeologicalSiteIdentifier "109";
+<https://pepadb.us.es/#archaeologicalStructure> "Cubillejo de Lara de los Infantes";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Mambrillas de Lara";
+a "Passage grave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_51> a "Chamber";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Ávila";
+juso:SecondLevelAdministrativeDivision "Mironcillo";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL01002";
+r-arco:archaeologicalSiteIdentifier "119";
+<https://pepadb.us.es/#archaeologicalStructure> "Dehesa de Río Fortes";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_52> r-arco:archaeologicalSiteIdentifier "122";
+juso:FirstLevelAdministrativeDivision "Cádiz";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de Alberite";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND02021";
+juso:SecondLevelAdministrativeDivision "Villamartín";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_53> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0021";
+r-arco:archaeologicalSiteIdentifier "124";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de Grailhe";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Gard";
+juso:SecondLevelAdministrativeDivision "Campestre-et-Luc";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_54> lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0022";
+r-arco:archaeologicalSiteIdentifier "125";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de la Drailhe";
+juso:SecondLevelAdministrativeDivision "Viols-le-Fort";
+a "Dolmen";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_55> r-arco:archaeologicalSiteIdentifier "126";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0023";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de la Marque";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Lozère";
+juso:SecondLevelAdministrativeDivision "Mas-Saint-Chély";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_56> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0024";
+r-arco:archaeologicalSiteIdentifier "127";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de la Pierre Folle";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Vendée";
+juso:SecondLevelAdministrativeDivision "Thiré";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_57> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND02001";
+juso:SecondLevelAdministrativeDivision "Villamartín";
+a "Dolmen";
+juso:FirstLevelAdministrativeDivision "Cádiz";
+r-arco:archaeologicalSiteIdentifier "128";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de la Rosa";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_58> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0025";
+r-arco:archaeologicalSiteIdentifier "129";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen de Puyraveau";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Deux-Sèvres";
+juso:SecondLevelAdministrativeDivision "Saint-Léger-de-Montbrun";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_59> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0026";
+r-arco:archaeologicalSiteIdentifier "130";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen du Devezas";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+juso:SecondLevelAdministrativeDivision "Saint-Maurice-de-Navacelles";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_60> ecpo:hasChronology "Undefined";
+r-arco:archaeologicalSiteIdentifier "131";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen du Rieutort";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Ardèche ";
+a "Dolmen";
+juso:SecondLevelAdministrativeDivision "Chauzon";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0027" .
+<https://pepadb.us.es/#structure_61> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0028";
+r-arco:archaeologicalSiteIdentifier "132";
+<https://pepadb.us.es/#archaeologicalStructure> "Dolmen II du Bois-bas";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Hérault";
+juso:SecondLevelAdministrativeDivision "Minerve";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_62> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND02006";
+r-arco:archaeologicalSiteIdentifier "279";
+<https://pepadb.us.es/#archaeologicalStructure> "Paraje de Montebajo - Tumba 3";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Cádiz";
+juso:SecondLevelAdministrativeDivision "Alcalá de los Gazules";
+a "Tholos";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_63> <https://pepadb.us.es/#archaeologicalStructure> "Dolmen de El Juncal";
+a "Dolmen";
+juso:SecondLevelAdministrativeDivision "Ubrique";
+juso:FirstLevelAdministrativeDivision "Cádiz";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND02019";
+r-arco:archaeologicalSiteIdentifier "123";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_64> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0042";
+r-arco:archaeologicalSiteIdentifier "138";
+<https://pepadb.us.es/#archaeologicalStructure> "Easton Down - Winterslow site";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Winterslow ";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_65> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0043";
+r-arco:archaeologicalSiteIdentifier "139";
+<https://pepadb.us.es/#archaeologicalStructure> "Easton Lane Interchange";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Hampshire";
+juso:SecondLevelAdministrativeDivision "Easton Lane";
+a "Necropolis";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_66> lgdo:Country "England";
+ecpo:hasChronology "3rd-2nd";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Aldbourne";
+a "Barrow";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0012";
+r-arco:archaeologicalSiteIdentifier "35";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow Aldbourne G1" .
+<https://pepadb.us.es/#structure_67> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02012";
+r-arco:archaeologicalSiteIdentifier "144";
+<https://pepadb.us.es/#archaeologicalStructure> "El Hornazo (fondo 103)";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Burgos";
+a "Pit";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_68> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "PV02002";
+r-arco:archaeologicalSiteIdentifier "157";
+<https://pepadb.us.es/#archaeologicalStructure> "Errekatxuetako Atxa";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Vizcaya - Bizkaia";
+juso:SecondLevelAdministrativeDivision "Zeanuri";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_69> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND08002";
+r-arco:archaeologicalSiteIdentifier "159";
+<https://pepadb.us.es/#archaeologicalStructure> "Estructura 10.042-10.049 (PP4 Montelirio)";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Sevilla";
+juso:SecondLevelAdministrativeDivision "Castilleja de Guzmán";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_70> <https://pepadb.us.es/#archaeologicalStructure> "El Juncal I";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08010";
+r-arco:archaeologicalSiteIdentifier "145";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Castronuevo de los Arcos";
+a "Mound";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_71> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS328";
+r-arco:archaeologicalSiteIdentifier "375";
+<https://pepadb.us.es/#archaeologicalStructure> "Zambujal";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Torres Vedras - Santa Maria-São Miguel e Matacães";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_72> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0010";
+ecpo:hasChronology "Undefined";
+r-arco:archaeologicalSiteIdentifier "55";
+<https://pepadb.us.es/#archaeologicalStructure> "Billy";
+juso:SecondLevelAdministrativeDivision "Billy";
+juso:FirstLevelAdministrativeDivision "Allier";
+lgdo:Country "France" .
+<https://pepadb.us.es/#structure_73> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0001";
+r-arco:archaeologicalSiteIdentifier "7";
+<https://pepadb.us.es/#archaeologicalStructure> "Ambérieu-en-Bugey";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Ain";
+juso:SecondLevelAdministrativeDivision "Ambérieu-en-Bugey";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_74> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT04006";
+r-arco:archaeologicalSiteIdentifier "103";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova del Garrofet";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Tarragona";
+juso:SecondLevelAdministrativeDivision "Aiguamúrcia";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_75> juso:FirstLevelAdministrativeDivision "Finisterre";
+juso:SecondLevelAdministrativeDivision "Crozon";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0018";
+r-arco:archaeologicalSiteIdentifier "107";
+<https://pepadb.us.es/#archaeologicalStructure> "Crozon";
+lgdo:Country "France";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_76> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND07005";
+r-arco:archaeologicalSiteIdentifier "370";
+<https://pepadb.us.es/#archaeologicalStructure> "Corominas 1";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Málaga";
+juso:SecondLevelAdministrativeDivision "Estepona";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_77> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS4704";
+r-arco:archaeologicalSiteIdentifier "373";
+<https://pepadb.us.es/#archaeologicalStructure> "Gruta do Furadouro da Rocha Forte - Lapa da Amoreira";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Leiria";
+juso:SecondLevelAdministrativeDivision "Óbidos - Olho Marinho";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_78> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL07002";
+r-arco:archaeologicalSiteIdentifier "146";
+<https://pepadb.us.es/#archaeologicalStructure> "El Miradero";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Valladolid";
+juso:SecondLevelAdministrativeDivision "Villanueva de los Caballeros";
+a "Tumba calero";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_79> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL05002";
+r-arco:archaeologicalSiteIdentifier "147";
+<https://pepadb.us.es/#archaeologicalStructure> "El Ollar";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Segovia";
+juso:SecondLevelAdministrativeDivision "Donhierro";
+a "Pit";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_80> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND04013";
+r-arco:archaeologicalSiteIdentifier "225";
+<https://pepadb.us.es/#archaeologicalStructure> "La Sabina 49 - Hoya de los Castellones 38";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Granada";
+juso:SecondLevelAdministrativeDivision "Gorafe";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_81> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02004";
+r-arco:archaeologicalSiteIdentifier "166";
+<https://pepadb.us.es/#archaeologicalStructure> "Fuentepecina II";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Valle de Sedano";
+a "Dolmen";
+ecpo:hasChronology "5th" .
+<https://pepadb.us.es/#structure_82> juso:SecondLevelAdministrativeDivision "Amesbury";
+ecpo:hasChronology "3rd-2nd";
+a "Barrow";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0014";
+r-arco:archaeologicalSiteIdentifier "36";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G 39";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire" .
+<https://pepadb.us.es/#structure_83> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3024";
+r-arco:archaeologicalSiteIdentifier "369";
+<https://pepadb.us.es/#archaeologicalStructure> "Alto da Feteira";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Leiria";
+juso:SecondLevelAdministrativeDivision "Pombal - Arroteia";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_84> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "EXT01021";
+r-arco:archaeologicalSiteIdentifier "371";
+<https://pepadb.us.es/#archaeologicalStructure> "La Pijotilla T3";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Badajoz";
+juso:SecondLevelAdministrativeDivision "Solana de los Barros";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_85> juso:SecondLevelAdministrativeDivision "Lastours";
+r-arco:archaeologicalSiteIdentifier "174";
+a "Natural cave";
+juso:FirstLevelAdministrativeDivision "Aude";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte au Collier";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0034";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_86> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0035";
+r-arco:archaeologicalSiteIdentifier "175";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte Basse de la Vigne Perdue";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Aude";
+juso:SecondLevelAdministrativeDivision "Narbonne";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_87> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SER0001";
+r-arco:archaeologicalSiteIdentifier "134";
+<https://pepadb.us.es/#archaeologicalStructure> "Donja Bitinja";
+lgdo:Country "Serbia";
+juso:FirstLevelAdministrativeDivision "Kosovo";
+juso:SecondLevelAdministrativeDivision "Lebane";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_88> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04011";
+r-arco:archaeologicalSiteIdentifier "224";
+<https://pepadb.us.es/#archaeologicalStructure> "La Pinilla";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+juso:SecondLevelAdministrativeDivision "Carbajosa de la Sagrada";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_89> lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02008";
+r-arco:archaeologicalSiteIdentifier "150";
+<https://pepadb.us.es/#archaeologicalStructure> "El Soto";
+juso:SecondLevelAdministrativeDivision "Salas de los Infantes";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_90> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0045";
+r-arco:archaeologicalSiteIdentifier "160";
+<https://pepadb.us.es/#archaeologicalStructure> "Feltwell Fen";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Norfolk";
+juso:SecondLevelAdministrativeDivision "Feltwell";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_91> <https://pepadb.us.es/#archaeologicalStructure> "Fiavè";
+lgdo:Country "Italy";
+juso:SecondLevelAdministrativeDivision "Fiavé ";
+juso:FirstLevelAdministrativeDivision "Trentino";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0008";
+r-arco:archaeologicalSiteIdentifier "161";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_92> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03022";
+r-arco:archaeologicalSiteIdentifier "162";
+<https://pepadb.us.es/#archaeologicalStructure> "Forat de Conqueta";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Les Avellanes i Santa Linya";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_93> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0032";
+r-arco:archaeologicalSiteIdentifier "163";
+<https://pepadb.us.es/#archaeologicalStructure> "Forêt des Moidons";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Jura";
+juso:SecondLevelAdministrativeDivision "Chilly-sur-Salins";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_94> ecpo:hasChronology "Undefined";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03012";
+r-arco:archaeologicalSiteIdentifier "164";
+<https://pepadb.us.es/#archaeologicalStructure> "Fossa del Gegant";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Naves" .
+<https://pepadb.us.es/#structure_95> juso:SecondLevelAdministrativeDivision "Fratta Polesine";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0009";
+r-arco:archaeologicalSiteIdentifier "165";
+<https://pepadb.us.es/#archaeologicalStructure> "Frattesina";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Rovigo";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_96> juso:SecondLevelAdministrativeDivision "Valle de Sedano";
+<https://pepadb.us.es/#archaeologicalStructure> "Fuentepecina IV";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02013";
+r-arco:archaeologicalSiteIdentifier "166";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_97> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0007";
+r-arco:archaeologicalSiteIdentifier "167";
+<https://pepadb.us.es/#archaeologicalStructure> "Füzesabony";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Heves ";
+juso:SecondLevelAdministrativeDivision "Füzesabony";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_98> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0046";
+r-arco:archaeologicalSiteIdentifier "168";
+<https://pepadb.us.es/#archaeologicalStructure> "Glastonbury Lake Village";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Somerset";
+juso:SecondLevelAdministrativeDivision "Glastonbury";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_99> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02005";
+r-arco:archaeologicalSiteIdentifier "216";
+<https://pepadb.us.es/#archaeologicalStructure> "La Brújula";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Fresno de Rodilla";
+a "Mound";
+ecpo:hasChronology "4th-2nd" .
+<https://pepadb.us.es/#structure_100> juso:SecondLevelAdministrativeDivision "Sargentes de la Lora";
+r-arco:archaeologicalSiteIdentifier "217";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02006";
+juso:FirstLevelAdministrativeDivision "Burgos";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "La Cabaña";
+a "Passage grave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_101> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08003";
+r-arco:archaeologicalSiteIdentifier "219";
+<https://pepadb.us.es/#archaeologicalStructure> "La Casa de los Moros";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Arrabalde";
+a "Passage grave";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_102> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04003";
+r-arco:archaeologicalSiteIdentifier "221";
+<https://pepadb.us.es/#archaeologicalStructure> "La Ermita - Dolmen de Galisancho";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+juso:SecondLevelAdministrativeDivision "Galisancho";
+a "Passage grave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_103> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL06004";
+r-arco:archaeologicalSiteIdentifier "222";
+<https://pepadb.us.es/#archaeologicalStructure> "La Mina de Alcubilla";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Soria";
+juso:SecondLevelAdministrativeDivision "Alcubilla de las Peñas";
+a "Megalith";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_104> ecpo:hasChronology "3rd";
+a "Natural cave";
+lgdo:Country "Portugal";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS13117";
+<https://pepadb.us.es/#archaeologicalStructure> "Gruta do Correio-Mor";
+r-arco:archaeologicalSiteIdentifier "189";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Loures-Loures" .
+<https://pepadb.us.es/#structure_105> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0013";
+r-arco:archaeologicalSiteIdentifier "201";
+<https://pepadb.us.es/#archaeologicalStructure> "Kalkani";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Argolis ";
+juso:SecondLevelAdministrativeDivision "Mykines";
+a "Necropolis";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_106> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0051";
+r-arco:archaeologicalSiteIdentifier "202";
+<https://pepadb.us.es/#archaeologicalStructure> "Kellythorpe";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Yorkshire - East Riding";
+juso:SecondLevelAdministrativeDivision "Kirkburn";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_107> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0053";
+r-arco:archaeologicalSiteIdentifier "205";
+<https://pepadb.us.es/#archaeologicalStructure> "Kerstrobel";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Finistere";
+juso:SecondLevelAdministrativeDivision "Crozon";
+a "Barrow";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_108> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0053";
+r-arco:archaeologicalSiteIdentifier "206";
+<https://pepadb.us.es/#archaeologicalStructure> "Kilham long barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Yorkshire - East Riding";
+juso:SecondLevelAdministrativeDivision "Kilham";
+a "Barrow";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_109> r-arco:archaeologicalSiteIdentifier "86";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GAL04001";
+<https://pepadb.us.es/#archaeologicalStructure> "Chousa Nova";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Pontevedra";
+juso:SecondLevelAdministrativeDivision "Silleda (Campomarzo)";
+a "Mound";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_110> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0050";
+r-arco:archaeologicalSiteIdentifier "194";
+<https://pepadb.us.es/#archaeologicalStructure> "Hengistbury Head";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Dorset";
+juso:SecondLevelAdministrativeDivision "Bournemouth";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_111> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL06002";
+r-arco:archaeologicalSiteIdentifier "226";
+<https://pepadb.us.es/#archaeologicalStructure> "La Sima II";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Soria";
+juso:SecondLevelAdministrativeDivision "Miño de Medinaceli";
+a "Tholos";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_112> ecpo:hasChronology "5th-3rd";
+a "Chamber";
+juso:SecondLevelAdministrativeDivision "Osorno la Mayor";
+<https://pepadb.us.es/#archaeologicalStructure> "La Velilla";
+r-arco:archaeologicalSiteIdentifier "229";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL03001";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Palencia" .
+<https://pepadb.us.es/#structure_113> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM05001";
+r-arco:archaeologicalSiteIdentifier "230";
+<https://pepadb.us.es/#archaeologicalStructure> "La Veredilla";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Toledo";
+juso:SecondLevelAdministrativeDivision "Illescas";
+a "Pit";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_114> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "PV03003";
+r-arco:archaeologicalSiteIdentifier "233";
+<https://pepadb.us.es/#archaeologicalStructure> "Larrarte";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Guipúzcoa - Gipuzkoa";
+juso:SecondLevelAdministrativeDivision "Beasain";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_115> r-arco:archaeologicalSiteIdentifier "231";
+<https://pepadb.us.es/#archaeologicalStructure> "Lake group Barrow G47, 49 or 50";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+a "Barrow";
+juso:SecondLevelAdministrativeDivision "Larkhill";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0054";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_116> lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte du Gazel 2";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0046";
+r-arco:archaeologicalSiteIdentifier "185";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+juso:SecondLevelAdministrativeDivision "Cesseras";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_117> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0044";
+r-arco:archaeologicalSiteIdentifier "186";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte du Hasard - Cimetière";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Gard ";
+juso:SecondLevelAdministrativeDivision "Tharaux";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_118> r-arco:archaeologicalSiteIdentifier "277";
+<https://pepadb.us.es/#archaeologicalStructure> "Oyes";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0069";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Marne";
+a "Artificial cave";
+juso:SecondLevelAdministrativeDivision "Oyes";
+ecpo:hasChronology "5th-3rd" .
+<https://pepadb.us.es/#structure_119> juso:FirstLevelAdministrativeDivision "Salamanca";
+r-arco:archaeologicalSiteIdentifier "228";
+<https://pepadb.us.es/#archaeologicalStructure> "La Veguilla I";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04004";
+juso:SecondLevelAdministrativeDivision "Alba de Tormes";
+a "Passage grave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_120> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0010";
+r-arco:archaeologicalSiteIdentifier "213";
+<https://pepadb.us.es/#archaeologicalStructure> "Kurd";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Tolna";
+juso:SecondLevelAdministrativeDivision "Kurd";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_121> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0016";
+r-arco:archaeologicalSiteIdentifier "214";
+<https://pepadb.us.es/#archaeologicalStructure> "Kydonia";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Chania";
+juso:SecondLevelAdministrativeDivision "Nea Kydonia";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_122> ecpo:hasChronology "Undefined";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0056";
+r-arco:archaeologicalSiteIdentifier "218";
+<https://pepadb.us.es/#archaeologicalStructure> "La Canourgue";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Lozère";
+juso:SecondLevelAdministrativeDivision "La Canourgue" .
+<https://pepadb.us.es/#structure_123> juso:SecondLevelAdministrativeDivision "Ivory";
+juso:FirstLevelAdministrativeDivision "Jura ";
+lgdo:Country "France";
+r-arco:archaeologicalSiteIdentifier "199";
+<https://pepadb.us.es/#archaeologicalStructure> "Ivory";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0051";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_124> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0012";
+r-arco:archaeologicalSiteIdentifier "200";
+<https://pepadb.us.es/#archaeologicalStructure> "Kalbaki";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Ioannina";
+juso:SecondLevelAdministrativeDivision "Kalpaki";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_125> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0052";
+r-arco:archaeologicalSiteIdentifier "204";
+<https://pepadb.us.es/#archaeologicalStructure> "Kernonen-en-Plouvorn";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Finistere";
+juso:SecondLevelAdministrativeDivision "Plouvorn";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_126> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04006";
+r-arco:archaeologicalSiteIdentifier "298";
+<https://pepadb.us.es/#archaeologicalStructure> "Prado de la Nava";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+juso:SecondLevelAdministrativeDivision "Salvatierra de Tormes";
+a "Passage grave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_127> a "Passage grave";
+<https://pepadb.us.es/#archaeologicalStructure> "Prado de las Cruces";
+r-arco:archaeologicalSiteIdentifier "299";
+juso:SecondLevelAdministrativeDivision "Ávila";
+juso:FirstLevelAdministrativeDivision "Ávila";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL01006";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_128> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02007";
+r-arco:archaeologicalSiteIdentifier "268";
+<https://pepadb.us.es/#archaeologicalStructure> "Nava Alta";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Los Altos";
+a "Cist";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_129> ecpo:hasChronology "3rd-1st";
+a "Barrow";
+juso:FirstLevelAdministrativeDivision "Cornwall";
+<https://pepadb.us.es/#archaeologicalStructure> "Near Wolley barrow";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0060";
+r-arco:archaeologicalSiteIdentifier "271";
+juso:SecondLevelAdministrativeDivision "Woolley" .
+<https://pepadb.us.es/#structure_130> r-arco:archaeologicalSiteIdentifier "274";
+lgdo:Country "Portugal";
+<https://pepadb.us.es/#archaeologicalStructure> "Nora Velha 1 - Barranco da Nora Velha";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3894";
+juso:FirstLevelAdministrativeDivision "Beja";
+juso:SecondLevelAdministrativeDivision "Ourique - Ourique";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_131> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02001";
+r-arco:archaeologicalSiteIdentifier "6";
+<https://pepadb.us.es/#archaeologicalStructure> "Alto del Reinoso";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Monasterio de Rodilla";
+a "Chamber";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_132> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "NAV002";
+r-arco:archaeologicalSiteIdentifier "118";
+<https://pepadb.us.es/#archaeologicalStructure> "Debata Realengo";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Navarra";
+juso:SecondLevelAdministrativeDivision "Arruazu";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_133> r-arco:archaeologicalSiteIdentifier "243";
+juso:FirstLevelAdministrativeDivision "Córdoba";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND03015";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Delgados I";
+juso:SecondLevelAdministrativeDivision "Fuente Obejuna";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_134> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL01007";
+r-arco:archaeologicalSiteIdentifier "244";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Itueros";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Ávila";
+juso:SecondLevelAdministrativeDivision "Santa María de los Arroyos";
+a "Domestic";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_135> <https://pepadb.us.es/#archaeologicalStructure> "Los Lagos IV";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAN002";
+r-arco:archaeologicalSiteIdentifier "245";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Cantabria";
+juso:SecondLevelAdministrativeDivision "Hermandad de Campoo de Suso";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_136> r-arco:archaeologicalSiteIdentifier "246";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08005";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Lastros";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Morales de Toro";
+a "Mound";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_137> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND01011";
+r-arco:archaeologicalSiteIdentifier "247";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Millares 74";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Almería";
+juso:SecondLevelAdministrativeDivision "Santa Fe de Mondújar";
+a "Tholos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_138> r-arco:archaeologicalSiteIdentifier "247";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Millares III - 63";
+juso:FirstLevelAdministrativeDivision "Almería";
+a "Dolmen";
+juso:SecondLevelAdministrativeDivision "Santa Fe de Mondújar";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND01010";
+lgdo:Country "Spain";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_139> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND01003";
+r-arco:archaeologicalSiteIdentifier "247";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Millares IV - 8";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Almería";
+juso:SecondLevelAdministrativeDivision "Santa Fe de Mondújar";
+a "Dolmen";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_140> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND01002";
+r-arco:archaeologicalSiteIdentifier "247";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Millares VII - 7";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Almería";
+juso:SecondLevelAdministrativeDivision "Santa Fe de Mondújar";
+a "Tholos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_141> r-arco:archaeologicalSiteIdentifier "248";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08006";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Paradores";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Castrogonzalo";
+a "Workshop";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_142> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0061";
+r-arco:archaeologicalSiteIdentifier "278";
+<https://pepadb.us.es/#archaeologicalStructure> "Palisade Barrow cementery";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Cambridgeshire";
+juso:SecondLevelAdministrativeDivision "Perry";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_143> ecpo:hasChronology "3rd";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL01005";
+juso:SecondLevelAdministrativeDivision "Muñogalindo";
+a "Domestic";
+juso:FirstLevelAdministrativeDivision "Ávila";
+r-arco:archaeologicalSiteIdentifier "280";
+<https://pepadb.us.es/#archaeologicalStructure> "Peña del Águila";
+lgdo:Country "Spain" .
+<https://pepadb.us.es/#structure_144> r-arco:archaeologicalSiteIdentifier "282";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08007";
+<https://pepadb.us.es/#archaeologicalStructure> "Peñas Quiruelas";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Quiruelas de Vidriales";
+a "Workshop";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_145> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08008";
+r-arco:archaeologicalSiteIdentifier "283";
+<https://pepadb.us.es/#archaeologicalStructure> "Peñas Villardondiego";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Villardondiego";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_146> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0062";
+r-arco:archaeologicalSiteIdentifier "288";
+<https://pepadb.us.es/#archaeologicalStructure> "Pin Farm barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Suffolk";
+juso:SecondLevelAdministrativeDivision "Kentford";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_147> <https://pepadb.us.es/#archaeologicalStructure> "Las Arnillas";
+r-arco:archaeologicalSiteIdentifier "234";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL02009";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Burgos";
+juso:SecondLevelAdministrativeDivision "Valle de Sedano";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_148> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0020";
+r-arco:archaeologicalSiteIdentifier "264";
+<https://pepadb.us.es/#archaeologicalStructure> "Monte San Paolillo";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Catania";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_149> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS1260";
+r-arco:archaeologicalSiteIdentifier "300";
+<https://pepadb.us.es/#archaeologicalStructure> "Pragança";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Lisboa";
+juso:SecondLevelAdministrativeDivision "Cadaval-Lamas e Cercal";
+a "Domestic";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_150> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SER0004";
+r-arco:archaeologicalSiteIdentifier "301";
+<https://pepadb.us.es/#archaeologicalStructure> "Precevo-Boka";
+lgdo:Country "Serbia";
+juso:FirstLevelAdministrativeDivision "Kosovo";
+juso:SecondLevelAdministrativeDivision "Klina";
+a "Necropolis";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_151> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3237";
+r-arco:archaeologicalSiteIdentifier "304";
+<https://pepadb.us.es/#archaeologicalStructure> "Quinta do Marcelo";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Setúbal";
+juso:SecondLevelAdministrativeDivision "Almada - Almada-Cova da Piedade-Pragal e Cacilhas";
+a "Domestic";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_152> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "WAL0005";
+r-arco:archaeologicalSiteIdentifier "302";
+<https://pepadb.us.es/#archaeologicalStructure> "Promontory Henllan";
+lgdo:Country "Wales";
+juso:FirstLevelAdministrativeDivision "Ceredigion";
+juso:SecondLevelAdministrativeDivision "Henllan";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_153> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03014";
+r-arco:archaeologicalSiteIdentifier "321";
+<https://pepadb.us.es/#archaeologicalStructure> "Sepulcro de Can Rajolí";
+lgdo:Country "Spain";
+juso:SecondLevelAdministrativeDivision "Olius";
+juso:FirstLevelAdministrativeDivision "Lleida";
+a "Cist";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_154> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS4016";
+r-arco:archaeologicalSiteIdentifier "315";
+<https://pepadb.us.es/#archaeologicalStructure> "São Paulo 2";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Setúbal";
+juso:SecondLevelAdministrativeDivision "Almada - Almada Cova da Piedade Pragal e Cacilhas";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_155> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0070";
+r-arco:archaeologicalSiteIdentifier "317";
+<https://pepadb.us.es/#archaeologicalStructure> "Scratchbury Barrow G1";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Norton Bavant";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_156> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08001";
+r-arco:archaeologicalSiteIdentifier "148";
+<https://pepadb.us.es/#archaeologicalStructure> "El Pedroso";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Trabazos";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_157> a "Pithos";
+r-arco:archaeologicalSiteIdentifier "215";
+<https://pepadb.us.es/#archaeologicalStructure> "La Almoloya T-38";
+juso:FirstLevelAdministrativeDivision "Murcia";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "MUR001";
+juso:SecondLevelAdministrativeDivision "Pliego";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_158> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND04010";
+r-arco:archaeologicalSiteIdentifier "241";
+<https://pepadb.us.es/#archaeologicalStructure> "Llano de la Teja 18";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Granada";
+juso:SecondLevelAdministrativeDivision "Fonelas";
+a "Dolmen";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_159> juso:SecondLevelAdministrativeDivision "Quiruelas de Vidriales";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Arenales";
+juso:FirstLevelAdministrativeDivision "Zamora";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08004";
+r-arco:archaeologicalSiteIdentifier "242";
+lgdo:Country "Spain";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_160> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND01004";
+r-arco:archaeologicalSiteIdentifier "247";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Millares XXXVII - 12";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Almería";
+juso:SecondLevelAdministrativeDivision "Santa Fe de Mondújar";
+a "Tholos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_161> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL07003";
+r-arco:archaeologicalSiteIdentifier "249";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Zumacales";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Valladolid";
+juso:SecondLevelAdministrativeDivision "Simancas";
+a "Passage grave";
+ecpo:hasChronology "5th-4th" .
+<https://pepadb.us.es/#structure_162> juso:FirstLevelAdministrativeDivision "Porto";
+juso:SecondLevelAdministrativeDivision "Baião - Gestaçô";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS7378";
+<https://pepadb.us.es/#archaeologicalStructure> "Mámoa V de Chã de Arcas";
+r-arco:archaeologicalSiteIdentifier "252";
+lgdo:Country "Portugal";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_163> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0031";
+r-arco:archaeologicalSiteIdentifier "343";
+<https://pepadb.us.es/#archaeologicalStructure> "Tholos Kakovatos B";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Elis";
+juso:SecondLevelAdministrativeDivision "Kakovatos";
+a "Tholos";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_164> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0032";
+r-arco:archaeologicalSiteIdentifier "343";
+<https://pepadb.us.es/#archaeologicalStructure> "Tholos Kakovatos C";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Elis";
+juso:SecondLevelAdministrativeDivision "Kakovatos";
+a "Tholos";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_165> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND03002";
+r-arco:archaeologicalSiteIdentifier "113";
+<https://pepadb.us.es/#archaeologicalStructure> "Cueva de los Cuarenta";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Córdoba";
+juso:SecondLevelAdministrativeDivision "Priego de Córdoba";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_166> ecpo:hasChronology "3rd";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CVL01007";
+r-arco:archaeologicalSiteIdentifier "99";
+juso:SecondLevelAdministrativeDivision "Alcoy";
+a "Natural cave";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Alicante - Alacant";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova de la Pastora" .
+<https://pepadb.us.es/#structure_167> r-arco:archaeologicalSiteIdentifier "104";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01024";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova del Gegant";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Barcelona";
+juso:SecondLevelAdministrativeDivision "Sitges";
+a "Natural cave";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_168> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLV01002";
+r-arco:archaeologicalSiteIdentifier "105";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova del Llidoner";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Alacant";
+juso:SecondLevelAdministrativeDivision "Cocentaina";
+a "Natural cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_169> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0010";
+r-arco:archaeologicalSiteIdentifier "173";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotta Manaccora";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Foggia";
+juso:SecondLevelAdministrativeDivision "Peschici";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_170> lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Derbyshire";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0076";
+r-arco:archaeologicalSiteIdentifier "344";
+<https://pepadb.us.es/#archaeologicalStructure> "Thor Fissure Cave";
+a "Natural cave";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_171> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0015";
+r-arco:archaeologicalSiteIdentifier "318";
+<https://pepadb.us.es/#archaeologicalStructure> "Sculptor's Cave";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Moray";
+juso:SecondLevelAdministrativeDivision "Elgin";
+a "Natural cave";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_172> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0022";
+r-arco:archaeologicalSiteIdentifier "303";
+<https://pepadb.us.es/#archaeologicalStructure> "Prosymna";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Argolis";
+juso:SecondLevelAdministrativeDivision "Prosymna";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_173> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0014";
+r-arco:archaeologicalSiteIdentifier "21";
+<https://pepadb.us.es/#archaeologicalStructure> "Baigneurs - Charavines";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Isère ";
+juso:SecondLevelAdministrativeDivision "Charavines";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_174> lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructure> "Radwell Ring-ditch II";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0066";
+r-arco:archaeologicalSiteIdentifier "305";
+juso:FirstLevelAdministrativeDivision "Hertfordshire";
+juso:SecondLevelAdministrativeDivision "Radwell";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_175> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0011";
+r-arco:archaeologicalSiteIdentifier "236";
+<https://pepadb.us.es/#archaeologicalStructure> "Ledro";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Trentino";
+juso:SecondLevelAdministrativeDivision "Ledro";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_176> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0001";
+r-arco:archaeologicalSiteIdentifier "8";
+<https://pepadb.us.es/#archaeologicalStructure> "Analipsi";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Heraklion";
+juso:SecondLevelAdministrativeDivision "Hernossinos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_177> juso:SecondLevelAdministrativeDivision "Hermandad de Campoo de Suso";
+juso:FirstLevelAdministrativeDivision "Cantabria";
+r-arco:archaeologicalSiteIdentifier "245";
+a "Dolmen";
+<https://pepadb.us.es/#archaeologicalStructure> "Los Lagos I";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAN001";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_178> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0077";
+r-arco:archaeologicalSiteIdentifier "327";
+<https://pepadb.us.es/#archaeologicalStructure> "Serre de Bouisset";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Hérault";
+juso:SecondLevelAdministrativeDivision "Ferrières-les-Verreries";
+a "Necropolis";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_179> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND08024";
+r-arco:archaeologicalSiteIdentifier "342";
+<https://pepadb.us.es/#archaeologicalStructure> "Tholos de Palacio III";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Sevilla";
+juso:SecondLevelAdministrativeDivision "Almadén de la Plata";
+a "Tholos";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_180> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03006";
+r-arco:archaeologicalSiteIdentifier "324";
+<https://pepadb.us.es/#archaeologicalStructure> "Sepulcro del Collet";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Riner";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_181> juso:SecondLevelAdministrativeDivision "L´Espunyola";
+juso:FirstLevelAdministrativeDivision "Barcelona";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Sepulcro I de El Bosc";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01036";
+r-arco:archaeologicalSiteIdentifier "325";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_182> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CVL01045";
+r-arco:archaeologicalSiteIdentifier "69";
+<https://pepadb.us.es/#archaeologicalStructure> "Cabezo Redondo";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Alacant";
+juso:SecondLevelAdministrativeDivision "Villena";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_183> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0012";
+r-arco:archaeologicalSiteIdentifier "72";
+<https://pepadb.us.es/#archaeologicalStructure> "Canourge";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Lozère ";
+juso:SecondLevelAdministrativeDivision "Canourge";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_184> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS62";
+r-arco:archaeologicalSiteIdentifier "11";
+<https://pepadb.us.es/#archaeologicalStructure> "Anta Grande do Zambujeiro";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Évora";
+juso:SecondLevelAdministrativeDivision "Évora - Nossa Senhora da Tourega e Nossa Senhora de Guadalupe";
+a "Dolmen";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_185> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0032";
+r-arco:archaeologicalSiteIdentifier "46";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow III";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Gloucestershire";
+juso:SecondLevelAdministrativeDivision "Bourton-on-the-Water";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_186> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "WAL0001";
+r-arco:archaeologicalSiteIdentifier "49";
+<https://pepadb.us.es/#archaeologicalStructure> "Bedd Branwen";
+lgdo:Country "Wales";
+juso:FirstLevelAdministrativeDivision "Gwynedd";
+juso:SecondLevelAdministrativeDivision "Holyhead";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_187> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3012";
+r-arco:archaeologicalSiteIdentifier "9";
+<https://pepadb.us.es/#archaeologicalStructure> "Anta do Pinheiro dos Abraços - Bobadela";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Coimbra";
+juso:SecondLevelAdministrativeDivision "Oliveira do Hospital - Bobadela";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_188> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0002";
+r-arco:archaeologicalSiteIdentifier "12";
+<https://pepadb.us.es/#archaeologicalStructure> "Argelliers";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Aude";
+juso:SecondLevelAdministrativeDivision "Argelliers";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_189> <https://pepadb.us.es/#archaeologicalStructure> "Campo de Hockey";
+lgdo:Country "Spain";
+r-arco:archaeologicalSiteIdentifier "71";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND02002";
+juso:FirstLevelAdministrativeDivision "Cádiz";
+juso:SecondLevelAdministrativeDivision "San Fernando";
+a "Pit";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_190> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0027";
+r-arco:archaeologicalSiteIdentifier "343";
+<https://pepadb.us.es/#archaeologicalStructure> "Tholos Kakovatos A";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Elis";
+juso:SecondLevelAdministrativeDivision "Kakovatos";
+a "Tholos";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_191> ecpo:hasChronology "Undefined";
+a "Natural cave";
+r-arco:archaeologicalSiteIdentifier "176";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte de la Madeleine";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0036";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+juso:SecondLevelAdministrativeDivision "Villeneuve-les-Maguelonne" .
+<https://pepadb.us.es/#structure_192> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0047";
+r-arco:archaeologicalSiteIdentifier "177";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte de la Roche";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Doubs ";
+juso:SecondLevelAdministrativeDivision "Courchapon";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_193> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0037";
+r-arco:archaeologicalSiteIdentifier "178";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte de La Trone";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Gard";
+juso:SecondLevelAdministrativeDivision "Sainte-Anastasie";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_194> a "Natural cave";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0038";
+r-arco:archaeologicalSiteIdentifier "179";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte de Lombrives";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Ariège";
+juso:SecondLevelAdministrativeDivision "Ussat";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_195> r-arco:archaeologicalSiteIdentifier "180";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte de Nizas";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0039";
+juso:SecondLevelAdministrativeDivision "Nizas ";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_196> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0040";
+r-arco:archaeologicalSiteIdentifier "181";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte de Sigottier";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Ille-et-Vilaine";
+juso:SecondLevelAdministrativeDivision "Louvigné-du-Désert";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_197> ecpo:hasChronology "Undefined";
+juso:SecondLevelAdministrativeDivision "La Rochette";
+a "Natural cave";
+r-arco:archaeologicalSiteIdentifier "182";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0041";
+juso:FirstLevelAdministrativeDivision "Seine-et-Marne";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte des Duffaits" .
+<https://pepadb.us.es/#structure_198> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0042";
+r-arco:archaeologicalSiteIdentifier "183";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte des Fées";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Allier";
+juso:SecondLevelAdministrativeDivision "Châtelperron";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_199> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0043";
+r-arco:archaeologicalSiteIdentifier "184";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte du Cimetière";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bouches-du-Rhône";
+juso:SecondLevelAdministrativeDivision "Châteaurenard";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_200> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0045";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Grotte Murée";
+juso:SecondLevelAdministrativeDivision "Montagnac-Montpezat";
+juso:FirstLevelAdministrativeDivision "Alpes-de-Haute-Provence";
+r-arco:archaeologicalSiteIdentifier "187";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_201> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0048";
+r-arco:archaeologicalSiteIdentifier "188";
+<https://pepadb.us.es/#archaeologicalStructure> "Gruta des Cloches";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Ardèche";
+juso:SecondLevelAdministrativeDivision "Saint-Martin-d'Ardèche";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_202> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0052";
+r-arco:archaeologicalSiteIdentifier "203";
+<https://pepadb.us.es/#archaeologicalStructure> "Kent's Cavern";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Devon";
+juso:SecondLevelAdministrativeDivision "Torquay ";
+a "Natural cave";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_203> lgdo:Country "France";
+a "Natural cave";
+juso:FirstLevelAdministrativeDivision "Var";
+juso:SecondLevelAdministrativeDivision "Ollioules";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0049";
+r-arco:archaeologicalSiteIdentifier "190";
+<https://pepadb.us.es/#archaeologicalStructure> "Gruta Monier";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_204> r-arco:archaeologicalSiteIdentifier "193";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0049";
+<https://pepadb.us.es/#archaeologicalStructure> "Heathery Burn Cave";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Northumberland";
+juso:SecondLevelAdministrativeDivision "Hexhamshire";
+a "Natural cave";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_205> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND08001";
+r-arco:archaeologicalSiteIdentifier "374";
+<https://pepadb.us.es/#archaeologicalStructure> "La Molina CE17";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Sevilla";
+juso:SecondLevelAdministrativeDivision "Lora de Estepa";
+a "Artificial cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_206> <https://pepadb.us.es/#archaeologicalStructure> "Asine";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Argolis";
+juso:SecondLevelAdministrativeDivision "Asini";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0002";
+r-arco:archaeologicalSiteIdentifier "17";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_207> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0003";
+r-arco:archaeologicalSiteIdentifier "18";
+<https://pepadb.us.es/#archaeologicalStructure> "Athens Agora";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Central Athens";
+juso:SecondLevelAdministrativeDivision "Athens";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_208> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0003";
+r-arco:archaeologicalSiteIdentifier "19";
+<https://pepadb.us.es/#archaeologicalStructure> "Aubais";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Gard";
+juso:SecondLevelAdministrativeDivision "Aubais";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_209> <https://pepadb.us.es/#archaeologicalStructure> "Bélesta";
+r-arco:archaeologicalSiteIdentifier "51";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0008";
+juso:FirstLevelAdministrativeDivision "Ariège";
+juso:SecondLevelAdministrativeDivision "Bélesta";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_210> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0001";
+r-arco:archaeologicalSiteIdentifier "52";
+<https://pepadb.us.es/#archaeologicalStructure> "Beneceto";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Parma";
+juso:SecondLevelAdministrativeDivision "Parma";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_211> lgdo:Country "England";
+juso:SecondLevelAdministrativeDivision "Cowley";
+juso:FirstLevelAdministrativeDivision "Gloucestershire";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0040";
+r-arco:archaeologicalSiteIdentifier "74";
+<https://pepadb.us.es/#archaeologicalStructure> "Cantera";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_212> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS2762";
+r-arco:archaeologicalSiteIdentifier "77";
+<https://pepadb.us.es/#archaeologicalStructure> "Castelo Velho do Caratão";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Santarém";
+juso:SecondLevelAdministrativeDivision "Mação - Mação-Penhascoso e Aboboreira";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_213> juso:FirstLevelAdministrativeDivision "Gard ";
+juso:SecondLevelAdministrativeDivision "Collias";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Collias";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0016";
+r-arco:archaeologicalSiteIdentifier "91";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_214> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0014";
+r-arco:archaeologicalSiteIdentifier "306";
+<https://pepadb.us.es/#archaeologicalStructure> "Regöly - Kesziállás";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Tolna ";
+juso:SecondLevelAdministrativeDivision "Regöly ";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_215> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0004";
+<https://pepadb.us.es/#archaeologicalStructure> "Bampfylde Hill";
+r-arco:archaeologicalSiteIdentifier "25";
+lgdo:Country "England";
+juso:SecondLevelAdministrativeDivision "South Molton";
+juso:FirstLevelAdministrativeDivision "Devon";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_216> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0034";
+r-arco:archaeologicalSiteIdentifier "30";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow - Mount Caburn";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "East Sussex";
+juso:SecondLevelAdministrativeDivision "Glynde ";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_217> juso:SecondLevelAdministrativeDivision "Ashbury";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0035";
+r-arco:archaeologicalSiteIdentifier "31";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow - Site n4";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Oxfordshire";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_218> juso:FirstLevelAdministrativeDivision "Norfolk ";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0008";
+r-arco:archaeologicalSiteIdentifier "32";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow 1 - Hill Field";
+juso:SecondLevelAdministrativeDivision "Warham ";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_219> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0009";
+r-arco:archaeologicalSiteIdentifier "33";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow 25 - Rollestone Field Group";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Winterbourne Stoke";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_220> ecpo:hasChronology "3rd";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Isère";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0020";
+r-arco:archaeologicalSiteIdentifier "382";
+<https://pepadb.us.es/#archaeologicalStructure> "Charavines";
+juso:SecondLevelAdministrativeDivision "Charavines" .
+<https://pepadb.us.es/#structure_221> r-arco:archaeologicalSiteIdentifier "383";
+<https://pepadb.us.es/#archaeologicalStructure> "Annecy";
+juso:FirstLevelAdministrativeDivision "Haute-Savoie";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0061";
+juso:SecondLevelAdministrativeDivision "Annecy";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_222> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0067";
+r-arco:archaeologicalSiteIdentifier "384";
+<https://pepadb.us.es/#archaeologicalStructure> "Epone";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Yvelines";
+juso:SecondLevelAdministrativeDivision "Epone";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_223> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0070";
+r-arco:archaeologicalSiteIdentifier "385";
+<https://pepadb.us.es/#archaeologicalStructure> "Flavacourt";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Oise";
+juso:SecondLevelAdministrativeDivision "Flavacourt";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_224> juso:SecondLevelAdministrativeDivision "Castelnovo ne' Monti";
+r-arco:archaeologicalSiteIdentifier "56";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0002";
+<https://pepadb.us.es/#archaeologicalStructure> "Bismantova";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Reggio Emilia";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_225> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0004";
+r-arco:archaeologicalSiteIdentifier "57";
+<https://pepadb.us.es/#archaeologicalStructure> "Bizzieberry Hill";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Lanarkshire";
+juso:SecondLevelAdministrativeDivision "Biggar";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_226> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0004";
+r-arco:archaeologicalSiteIdentifier "62";
+<https://pepadb.us.es/#archaeologicalStructure> "Bölcske";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Tolna ";
+juso:SecondLevelAdministrativeDivision "Bölcske ";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_227> juso:SecondLevelAdministrativeDivision "Bausley with Criggion";
+<https://pepadb.us.es/#archaeologicalStructure> "Breiddin hillfort";
+lgdo:Country "Wales";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "WAL0002";
+r-arco:archaeologicalSiteIdentifier "64";
+juso:FirstLevelAdministrativeDivision "Powys";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_228> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0011";
+r-arco:archaeologicalSiteIdentifier "65";
+<https://pepadb.us.es/#archaeologicalStructure> "Brunbachmatt";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+juso:SecondLevelAdministrativeDivision "Urmatt ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_229> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03008";
+r-arco:archaeologicalSiteIdentifier "67";
+<https://pepadb.us.es/#archaeologicalStructure> "Cabana del Moro de Colomera";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Cabó";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_230> r-arco:archaeologicalSiteIdentifier "78";
+juso:SecondLevelAdministrativeDivision "Terrinches";
+<https://pepadb.us.es/#archaeologicalStructure> "Castillejo del Bonete";
+juso:FirstLevelAdministrativeDivision "Ciudad Real";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM02002";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_231> r-arco:archaeologicalSiteIdentifier "79";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3442";
+<https://pepadb.us.es/#archaeologicalStructure> "Castro de Nossa Senhora da Guia";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Viseu";
+juso:SecondLevelAdministrativeDivision "São Pedro do Sul - São Pedro do Sul-Várzea e Baiões";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_232> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0016";
+r-arco:archaeologicalSiteIdentifier "80";
+<https://pepadb.us.es/#archaeologicalStructure> "Cava Cana Barbara";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Augusta";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_233> lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0013";
+juso:SecondLevelAdministrativeDivision "Cazevieille";
+r-arco:archaeologicalSiteIdentifier "82";
+<https://pepadb.us.es/#archaeologicalStructure> "Cazevieille";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_234> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0004";
+r-arco:archaeologicalSiteIdentifier "84";
+<https://pepadb.us.es/#archaeologicalStructure> "Chalandritsa";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Achaea";
+juso:SecondLevelAdministrativeDivision "Erymanthos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_235> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0015";
+r-arco:archaeologicalSiteIdentifier "85";
+<https://pepadb.us.es/#archaeologicalStructure> "Choisy-au-Bac";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Oise ";
+juso:SecondLevelAdministrativeDivision "Choisy-au-Bac";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_236> juso:FirstLevelAdministrativeDivision "Brindisi";
+lgdo:Country "Italy";
+juso:SecondLevelAdministrativeDivision "Cisternino";
+<https://pepadb.us.es/#archaeologicalStructure> "Cisternino";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0004";
+r-arco:archaeologicalSiteIdentifier "88";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_237> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0005";
+r-arco:archaeologicalSiteIdentifier "95";
+<https://pepadb.us.es/#archaeologicalStructure> "Cos - Eleona";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Cos";
+juso:SecondLevelAdministrativeDivision "Cos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_238> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0007";
+r-arco:archaeologicalSiteIdentifier "114";
+<https://pepadb.us.es/#archaeologicalStructure> "Culbin Sands";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Moray";
+juso:SecondLevelAdministrativeDivision "Dyke And Moy";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_239> ecpo:hasChronology "Undefined";
+juso:SecondLevelAdministrativeDivision "Gamrie";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0008";
+r-arco:archaeologicalSiteIdentifier "115";
+<https://pepadb.us.es/#archaeologicalStructure> "Cullen of Buchan";
+lgdo:Country "Scotland" .
+<https://pepadb.us.es/#structure_240> lgdo:Country "France";
+juso:SecondLevelAdministrativeDivision "Haguenau";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+r-arco:archaeologicalSiteIdentifier "116";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0019";
+<https://pepadb.us.es/#archaeologicalStructure> "Dachshubel";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_241> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0006";
+r-arco:archaeologicalSiteIdentifier "95";
+<https://pepadb.us.es/#archaeologicalStructure> "Cos - Langada";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Cos";
+juso:SecondLevelAdministrativeDivision "Cos";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_242> juso:SecondLevelAdministrativeDivision "La Tala";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04001";
+r-arco:archaeologicalSiteIdentifier "96";
+<https://pepadb.us.es/#archaeologicalStructure> "Coto Alto";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_243> juso:FirstLevelAdministrativeDivision "Dordogne ";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Coulounieix - Chamiers";
+r-arco:archaeologicalSiteIdentifier "97";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0017";
+juso:SecondLevelAdministrativeDivision "Coulounieix-Chamiers";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_244> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01035";
+r-arco:archaeologicalSiteIdentifier "98";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova de Can Mauri";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Barcelona";
+juso:SecondLevelAdministrativeDivision "Berga";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_245> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01037";
+r-arco:archaeologicalSiteIdentifier "100";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova de la Roca del Frare";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Barcelona";
+juso:SecondLevelAdministrativeDivision "La Llacuna";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_246> juso:FirstLevelAdministrativeDivision "Barcelona";
+r-arco:archaeologicalSiteIdentifier "101";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova de Les Pixarelles";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01038";
+lgdo:Country "Spain";
+juso:SecondLevelAdministrativeDivision "Tavertet";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_247> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT01011";
+r-arco:archaeologicalSiteIdentifier "102";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova del Frare";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Barcelona";
+juso:SecondLevelAdministrativeDivision "Matadepera";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_248> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03010";
+r-arco:archaeologicalSiteIdentifier "106";
+<https://pepadb.us.es/#archaeologicalStructure> "Cova dels Muricecs de Cellers";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Llimiana";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_249> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0005";
+r-arco:archaeologicalSiteIdentifier "108";
+<https://pepadb.us.es/#archaeologicalStructure> "Csongrád-Felgyo";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Csongrád-Csanád";
+juso:SecondLevelAdministrativeDivision "Felgy? ";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_250> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0007";
+r-arco:archaeologicalSiteIdentifier "120";
+<https://pepadb.us.es/#archaeologicalStructure> "Delphi";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Phocis";
+juso:SecondLevelAdministrativeDivision "Delphi ";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_251> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0008";
+r-arco:archaeologicalSiteIdentifier "121";
+<https://pepadb.us.es/#archaeologicalStructure> "Dendra";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Argolis ";
+juso:SecondLevelAdministrativeDivision "Midea ";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_252> ecpo:hasChronology "Undefined";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Drôme ";
+juso:SecondLevelAdministrativeDivision "Donzère";
+<https://pepadb.us.es/#archaeologicalStructure> "Donzère";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0029";
+r-arco:archaeologicalSiteIdentifier "135" .
+<https://pepadb.us.es/#structure_253> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0006";
+r-arco:archaeologicalSiteIdentifier "136";
+<https://pepadb.us.es/#archaeologicalStructure> "Dunaujváros - Kosziderpadlás";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Fejér ";
+juso:SecondLevelAdministrativeDivision "Dunaujváros";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_254> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "WAL0003";
+r-arco:archaeologicalSiteIdentifier "137";
+<https://pepadb.us.es/#archaeologicalStructure> "Dyfnant Forest";
+lgdo:Country "Wales";
+juso:FirstLevelAdministrativeDivision "Powys";
+juso:SecondLevelAdministrativeDivision "Welshpool";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_255> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0031";
+r-arco:archaeologicalSiteIdentifier "140";
+<https://pepadb.us.es/#archaeologicalStructure> "Ecorneboeuf";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Dordogne ";
+juso:SecondLevelAdministrativeDivision "Coulounieix-Chamiers";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_256> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM02005";
+<https://pepadb.us.es/#archaeologicalStructure> "El Castellón";
+r-arco:archaeologicalSiteIdentifier "141";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Ciudad Real";
+juso:SecondLevelAdministrativeDivision "Villanueva de los Infantes";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_257> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04010";
+r-arco:archaeologicalSiteIdentifier "142";
+<https://pepadb.us.es/#archaeologicalStructure> "El Cimajo";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+juso:SecondLevelAdministrativeDivision "Doñinos de Ledesma";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_258> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0009";
+r-arco:archaeologicalSiteIdentifier "153";
+<https://pepadb.us.es/#archaeologicalStructure> "Elaphotopos";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Ioannina";
+juso:SecondLevelAdministrativeDivision "Zagori";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_259> lgdo:Country "Greece";
+juso:SecondLevelAdministrativeDivision "Zacharo";
+juso:FirstLevelAdministrativeDivision "Elis";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0010";
+<https://pepadb.us.es/#archaeologicalStructure> "Elis";
+r-arco:archaeologicalSiteIdentifier "154";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_260> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0044";
+r-arco:archaeologicalSiteIdentifier "155";
+<https://pepadb.us.es/#archaeologicalStructure> "Elm Road - Site 44";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Essex";
+juso:SecondLevelAdministrativeDivision "Leigh-on-Sea";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_261> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CYP0001";
+r-arco:archaeologicalSiteIdentifier "156";
+<https://pepadb.us.es/#archaeologicalStructure> "Enkomi";
+lgdo:Country "Cyprus";
+juso:FirstLevelAdministrativeDivision "Famagusta";
+juso:SecondLevelAdministrativeDivision "Enkomi";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_262> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0009";
+<https://pepadb.us.es/#archaeologicalStructure> "Eschoncan Fell";
+r-arco:archaeologicalSiteIdentifier "158";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Kirkcudbrightshire";
+juso:SecondLevelAdministrativeDivision "Minnigaff";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_263> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0081";
+r-arco:archaeologicalSiteIdentifier "386";
+<https://pepadb.us.es/#archaeologicalStructure> "Mériel";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Val-d Oise";
+juso:SecondLevelAdministrativeDivision "Mériel";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_264> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0047";
+r-arco:archaeologicalSiteIdentifier "169";
+<https://pepadb.us.es/#archaeologicalStructure> "Glen Avenue";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Essex";
+juso:SecondLevelAdministrativeDivision "Colchester";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_265> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0010";
+r-arco:archaeologicalSiteIdentifier "170";
+<https://pepadb.us.es/#archaeologicalStructure> "Glenluce";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Wigtownshire";
+juso:SecondLevelAdministrativeDivision "Glenluce";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_266> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0033";
+r-arco:archaeologicalSiteIdentifier "171";
+<https://pepadb.us.es/#archaeologicalStructure> "Gours-aux-Lions";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Seine-et-Marne";
+juso:SecondLevelAdministrativeDivision "Marolles-sur-Seine";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_267> ecpo:hasChronology "4th-3rd";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+<https://pepadb.us.es/#archaeologicalStructure> "Greenbrae";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0011";
+r-arco:archaeologicalSiteIdentifier "172";
+juso:SecondLevelAdministrativeDivision "Cruden";
+lgdo:Country "Scotland" .
+<https://pepadb.us.es/#structure_268> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03005";
+r-arco:archaeologicalSiteIdentifier "319";
+<https://pepadb.us.es/#archaeologicalStructure> "Sepulcre de Bullons";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Riner";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_269> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0005";
+r-arco:archaeologicalSiteIdentifier "89";
+<https://pepadb.us.es/#archaeologicalStructure> "Civezzano";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Trentino";
+juso:SecondLevelAdministrativeDivision "Civezzano";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_270> lgdo:Country "Italy";
+<https://pepadb.us.es/#archaeologicalStructure> "Cles";
+r-arco:archaeologicalSiteIdentifier "90";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0006";
+juso:FirstLevelAdministrativeDivision "Trentino";
+juso:SecondLevelAdministrativeDivision "Cles";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_271> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0014";
+r-arco:archaeologicalSiteIdentifier "250";
+<https://pepadb.us.es/#archaeologicalStructure> "Maccarrone di Adrano";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Adrano";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_272> r-arco:archaeologicalSiteIdentifier "284";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0020";
+<https://pepadb.us.es/#archaeologicalStructure> "Perati";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "East Attica";
+juso:SecondLevelAdministrativeDivision "Chamolia";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_273> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0007";
+r-arco:archaeologicalSiteIdentifier "93";
+<https://pepadb.us.es/#archaeologicalStructure> "Coppa Nevigata";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Foggia";
+juso:SecondLevelAdministrativeDivision "Manfredonia";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_274> lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Tesoro de Villena";
+r-arco:archaeologicalSiteIdentifier "337";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CVL01046";
+juso:FirstLevelAdministrativeDivision "Alacant";
+juso:SecondLevelAdministrativeDivision "Villena";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_275> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0082";
+r-arco:archaeologicalSiteIdentifier "387";
+<https://pepadb.us.es/#archaeologicalStructure> "Chouilly";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Marne";
+juso:SecondLevelAdministrativeDivision "Chouilly";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_276> ecpo:hasChronology "Undefined";
+juso:SecondLevelAdministrativeDivision "Haguenau";
+r-arco:archaeologicalSiteIdentifier "207";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Kirchlach";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0054";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin" .
+<https://pepadb.us.es/#structure_277> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0014";
+r-arco:archaeologicalSiteIdentifier "208";
+<https://pepadb.us.es/#archaeologicalStructure> "Knossos";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Heraklion";
+juso:SecondLevelAdministrativeDivision "Heraklion";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_278> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0012";
+r-arco:archaeologicalSiteIdentifier "209";
+<https://pepadb.us.es/#archaeologicalStructure> "Knowes of Trotty barrow cemetery";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Orkney Islands";
+juso:SecondLevelAdministrativeDivision "Orkney Islands";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_279> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0055";
+r-arco:archaeologicalSiteIdentifier "210";
+<https://pepadb.us.es/#archaeologicalStructure> "Königsbrück";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+juso:SecondLevelAdministrativeDivision "Leutenheim";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_280> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0009";
+r-arco:archaeologicalSiteIdentifier "211";
+<https://pepadb.us.es/#archaeologicalStructure> "Kötegyán";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Békés ";
+juso:SecondLevelAdministrativeDivision "Kötegyán";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_281> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0050";
+r-arco:archaeologicalSiteIdentifier "191";
+<https://pepadb.us.es/#archaeologicalStructure> "Haguenau-Dachshübel";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+juso:SecondLevelAdministrativeDivision "Haguenau";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_282> r-arco:archaeologicalSiteIdentifier "192";
+juso:FirstLevelAdministrativeDivision "Somerset";
+juso:SecondLevelAdministrativeDivision "Stoke-sub-Hamdon";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0048";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructure> "Ham Hill - Site 3";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_283> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0008";
+r-arco:archaeologicalSiteIdentifier "195";
+<https://pepadb.us.es/#archaeologicalStructure> "Hernádkak";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Borsod-Abaúj-Zemplén";
+juso:SecondLevelAdministrativeDivision "Hernádkak ";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_284> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM04002";
+r-arco:archaeologicalSiteIdentifier "196";
+<https://pepadb.us.es/#archaeologicalStructure> "Herrerías II";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Guadalajara";
+juso:SecondLevelAdministrativeDivision "Herrería";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_285> lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Rhodes ";
+juso:SecondLevelAdministrativeDivision "Ialysos ";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0011";
+r-arco:archaeologicalSiteIdentifier "197";
+<https://pepadb.us.es/#archaeologicalStructure> "Ialysos";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_286> juso:SecondLevelAdministrativeDivision "Prekoruplje";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "SER0002";
+r-arco:archaeologicalSiteIdentifier "198";
+<https://pepadb.us.es/#archaeologicalStructure> "Iglarevo";
+lgdo:Country "Serbia";
+juso:FirstLevelAdministrativeDivision "Toplica ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_287> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL06003";
+r-arco:archaeologicalSiteIdentifier "227";
+<https://pepadb.us.es/#archaeologicalStructure> "La Tarayuela";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Soria";
+juso:SecondLevelAdministrativeDivision "Miño de Medinaceli";
+ecpo:hasChronology "4th" .
+<https://pepadb.us.es/#structure_288> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0058";
+r-arco:archaeologicalSiteIdentifier "262";
+<https://pepadb.us.es/#archaeologicalStructure> "Middle Hill - Barrow G5";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Warminster ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_289> juso:SecondLevelAdministrativeDivision "Idanha-a-Nova - Monsanto e Idanha-a-Velha";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3179";
+r-arco:archaeologicalSiteIdentifier "265";
+<https://pepadb.us.es/#archaeologicalStructure> "Moreirinha";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Castelo Branco";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_290> <https://pepadb.us.es/#archaeologicalStructure> "Mound on Keiss Moor";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0150";
+r-arco:archaeologicalSiteIdentifier "266";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Caithness";
+juso:SecondLevelAdministrativeDivision "Keiss";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_291> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0016";
+r-arco:archaeologicalSiteIdentifier "269";
+<https://pepadb.us.es/#archaeologicalStructure> "Near Glentanar House";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+juso:SecondLevelAdministrativeDivision "Aboyne";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_292> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0059";
+r-arco:archaeologicalSiteIdentifier "270";
+<https://pepadb.us.es/#archaeologicalStructure> "Near Peacock Farm";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Somerset";
+juso:SecondLevelAdministrativeDivision "Binfield";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_293> lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Nécropole de Chenon";
+r-arco:archaeologicalSiteIdentifier "272";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0068";
+juso:FirstLevelAdministrativeDivision "Charente";
+juso:SecondLevelAdministrativeDivision "Chenon";
+ecpo:hasChronology "5th-3rd" .
+<https://pepadb.us.es/#structure_294> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0019";
+r-arco:archaeologicalSiteIdentifier "273";
+<https://pepadb.us.es/#archaeologicalStructure> "Nichoria";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Messenia";
+juso:SecondLevelAdministrativeDivision "Karpofora";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_295> <https://pepadb.us.es/#archaeologicalStructure> "Le Chamblon";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Lozère ";
+juso:SecondLevelAdministrativeDivision "Gorges du Tarn Causses";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0059";
+r-arco:archaeologicalSiteIdentifier "235";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_296> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0060";
+r-arco:archaeologicalSiteIdentifier "237";
+<https://pepadb.us.es/#archaeologicalStructure> "Les Cents Arpents";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Seine-et-Marne";
+juso:SecondLevelAdministrativeDivision "Barbey";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_297> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0062";
+r-arco:archaeologicalSiteIdentifier "238";
+<https://pepadb.us.es/#archaeologicalStructure> "Lingolsheim";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+juso:SecondLevelAdministrativeDivision "Lingolsheim";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_298> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0011";
+r-arco:archaeologicalSiteIdentifier "258";
+<https://pepadb.us.es/#archaeologicalStructure> "Megyaszó";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Borsod-Abaúj-Zemplén";
+juso:SecondLevelAdministrativeDivision "Megyaszó";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_299> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0014";
+r-arco:archaeologicalSiteIdentifier "259";
+<https://pepadb.us.es/#archaeologicalStructure> "Mellenside";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+juso:SecondLevelAdministrativeDivision "Colpy ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_300> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0012";
+r-arco:archaeologicalSiteIdentifier "260";
+<https://pepadb.us.es/#archaeologicalStructure> "Mende-Leányvár";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Komárom-Esztergom";
+juso:SecondLevelAdministrativeDivision "Leányvár";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_301> ecpo:hasChronology "Undefined";
+lgdo:Country "France";
+juso:SecondLevelAdministrativeDivision "Aumelas";
+juso:FirstLevelAdministrativeDivision "Hérault ";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0004";
+r-arco:archaeologicalSiteIdentifier "20";
+<https://pepadb.us.es/#archaeologicalStructure> "Aumelas" .
+<https://pepadb.us.es/#structure_302> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04002";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "El Guijo";
+r-arco:archaeologicalSiteIdentifier "143";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+juso:SecondLevelAdministrativeDivision "La Mata de Ledesma";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_303> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0003";
+r-arco:archaeologicalSiteIdentifier "70";
+<https://pepadb.us.es/#archaeologicalStructure> "Campestrin";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Trieste";
+juso:SecondLevelAdministrativeDivision "Grignano";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_304> ecpo:hasChronology "Undefined";
+juso:SecondLevelAdministrativeDivision "Méréaucourt";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0065";
+r-arco:archaeologicalSiteIdentifier "261";
+<https://pepadb.us.es/#archaeologicalStructure> "Méréaucourt";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Somme" .
+<https://pepadb.us.es/#structure_305> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CVL01003";
+r-arco:archaeologicalSiteIdentifier "281";
+<https://pepadb.us.es/#archaeologicalStructure> "Peña Negra";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Alacant";
+juso:SecondLevelAdministrativeDivision "Crevillent";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_306> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0021";
+r-arco:archaeologicalSiteIdentifier "286";
+<https://pepadb.us.es/#archaeologicalStructure> "Peristeria";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Messenia";
+juso:SecondLevelAdministrativeDivision "Kyparissia ";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_307> lgdo:Country "Spain";
+juso:SecondLevelAdministrativeDivision "Cerralbo";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04005";
+r-arco:archaeologicalSiteIdentifier "287";
+<https://pepadb.us.es/#archaeologicalStructure> "Picón del Rey";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_308> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0018";
+r-arco:archaeologicalSiteIdentifier "289";
+<https://pepadb.us.es/#archaeologicalStructure> "Plemmirio";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Plemmirio";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_309> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0083";
+r-arco:archaeologicalSiteIdentifier "388";
+<https://pepadb.us.es/#archaeologicalStructure> "Ay Champagne";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Marne";
+juso:SecondLevelAdministrativeDivision "Ay Champagne";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_310> <https://pepadb.us.es/#archaeologicalStructure> "Sepulcro de Can Cuca";
+lgdo:Country "Spain";
+juso:SecondLevelAdministrativeDivision "Pinós";
+juso:FirstLevelAdministrativeDivision "Lleida";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03009";
+r-arco:archaeologicalSiteIdentifier "320";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_311> <https://pepadb.us.es/#archaeologicalStructure> "Sepulcro de Pedra Cabana";
+r-arco:archaeologicalSiteIdentifier "323";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03011";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Cabó";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_312> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0071";
+r-arco:archaeologicalSiteIdentifier "290";
+<https://pepadb.us.es/#archaeologicalStructure> "Plobannalec";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Finistère";
+juso:SecondLevelAdministrativeDivision "Plobannalec-Lesconil";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_313> juso:FirstLevelAdministrativeDivision "Argolis ";
+juso:SecondLevelAdministrativeDivision "Mykines";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0018";
+r-arco:archaeologicalSiteIdentifier "267";
+<https://pepadb.us.es/#archaeologicalStructure> "Mycenae";
+lgdo:Country "Greece";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_314> <https://pepadb.us.es/#archaeologicalStructure> "Pombais - Anta dos Pombais";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS241";
+r-arco:archaeologicalSiteIdentifier "291";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Portalegre";
+juso:SecondLevelAdministrativeDivision "Marvão - Beirã";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_315> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0720";
+r-arco:archaeologicalSiteIdentifier "292";
+<https://pepadb.us.es/#archaeologicalStructure> "Pont-de-Roide";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Doubs";
+juso:SecondLevelAdministrativeDivision "Pont-de-Roide-Vermondans";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_316> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0075";
+r-arco:archaeologicalSiteIdentifier "316";
+<https://pepadb.us.es/#archaeologicalStructure> "Schelmen - Hofstadt";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+juso:SecondLevelAdministrativeDivision "Haguenau ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_317> juso:SecondLevelAdministrativeDivision "Lipari";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0017";
+r-arco:archaeologicalSiteIdentifier "239";
+lgdo:Country "Italy";
+<https://pepadb.us.es/#archaeologicalStructure> "Lipari";
+juso:FirstLevelAdministrativeDivision "Sicily";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_318> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND04005";
+r-arco:archaeologicalSiteIdentifier "240";
+<https://pepadb.us.es/#archaeologicalStructure> "Llano de la Sabina 97";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Granada";
+juso:SecondLevelAdministrativeDivision "Gorafe";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_319> r-arco:archaeologicalSiteIdentifier "240";
+<https://pepadb.us.es/#archaeologicalStructure> "Llano de la Sabina 99";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND04007";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Granada";
+juso:SecondLevelAdministrativeDivision "Gorafe";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_320> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0013";
+r-arco:archaeologicalSiteIdentifier "251";
+<https://pepadb.us.es/#archaeologicalStructure> "Mains of Concraig";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+juso:SecondLevelAdministrativeDivision "Skene";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_321> r-arco:archaeologicalSiteIdentifier "253";
+juso:FirstLevelAdministrativeDivision "Hampshire";
+<https://pepadb.us.es/#archaeologicalStructure> "MARC3 site R1";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0055";
+juso:SecondLevelAdministrativeDivision "Winnall Down Copse";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_322> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0056";
+r-arco:archaeologicalSiteIdentifier "253";
+<https://pepadb.us.es/#archaeologicalStructure> "MARC3 site R7";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Hampshire";
+juso:SecondLevelAdministrativeDivision "Winnall Down Copse";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_323> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS239";
+r-arco:archaeologicalSiteIdentifier "10";
+<https://pepadb.us.es/#archaeologicalStructure> "Anta dos Penedos de São Miguel";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Portalegre";
+juso:SecondLevelAdministrativeDivision "Crato - Crato e Mártires-Flor da Rosa e Vale do Peso";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_324> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0003";
+r-arco:archaeologicalSiteIdentifier "47";
+<https://pepadb.us.es/#archaeologicalStructure> "Battonya";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Békés ";
+juso:SecondLevelAdministrativeDivision "Battonya";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_325> juso:SecondLevelAdministrativeDivision "Meare";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0057";
+r-arco:archaeologicalSiteIdentifier "256";
+<https://pepadb.us.es/#archaeologicalStructure> "Meare Lake Village";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Somerset";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_326> <https://pepadb.us.es/#archaeologicalStructure> "Baks - Levelény";
+r-arco:archaeologicalSiteIdentifier "22";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0001";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Csongrád-Csanád";
+juso:SecondLevelAdministrativeDivision "Baks";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_327> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0002";
+r-arco:archaeologicalSiteIdentifier "23";
+<https://pepadb.us.es/#archaeologicalStructure> "Balgay";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Angus";
+juso:SecondLevelAdministrativeDivision "Dundee";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_328> ecpo:hasChronology "2nd-1st";
+lgdo:Country "Scotland";
+<https://pepadb.us.es/#archaeologicalStructure> "Balmashanner";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0003";
+juso:SecondLevelAdministrativeDivision "Forfar ";
+r-arco:archaeologicalSiteIdentifier "24";
+juso:FirstLevelAdministrativeDivision "Angus" .
+<https://pepadb.us.es/#structure_329> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0002";
+r-arco:archaeologicalSiteIdentifier "26";
+<https://pepadb.us.es/#archaeologicalStructure> "Barát cave";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Veszprém";
+juso:SecondLevelAdministrativeDivision "Tihany";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_330> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0005";
+r-arco:archaeologicalSiteIdentifier "27";
+<https://pepadb.us.es/#archaeologicalStructure> "Barbey";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Seine-et-Marne";
+juso:SecondLevelAdministrativeDivision "Barbey";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_331> lgdo:Country "France";
+r-arco:archaeologicalSiteIdentifier "28";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0006";
+<https://pepadb.us.es/#archaeologicalStructure> "Barbuise - Courtavant";
+juso:FirstLevelAdministrativeDivision "Aube";
+juso:SecondLevelAdministrativeDivision "Barbuise";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_332> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0006";
+r-arco:archaeologicalSiteIdentifier "29";
+<https://pepadb.us.es/#archaeologicalStructure> "Barnett Copse";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Hampshire";
+juso:SecondLevelAdministrativeDivision "Rowlands Castle";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_333> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS14697";
+r-arco:archaeologicalSiteIdentifier "276";
+<https://pepadb.us.es/#archaeologicalStructure> "Orca de Seixas";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Viseu";
+juso:SecondLevelAdministrativeDivision "Moimenta da Beira - Pêra Velha-Aldeia de Nacomba e Ariz";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_334> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0066";
+r-arco:archaeologicalSiteIdentifier "263";
+<https://pepadb.us.es/#archaeologicalStructure> "Montagnac-Montpezat";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Alpes-de-Haute-Provence";
+juso:SecondLevelAdministrativeDivision "Montagnac-Montpezat";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_335> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0063";
+r-arco:archaeologicalSiteIdentifier "294";
+<https://pepadb.us.es/#archaeologicalStructure> "Portsdown - Southwick";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Hampshire";
+juso:SecondLevelAdministrativeDivision "Portchester";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_336> r-arco:archaeologicalSiteIdentifier "295";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0013";
+<https://pepadb.us.es/#archaeologicalStructure> "Pötréte";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Zala";
+juso:SecondLevelAdministrativeDivision "Pötréte";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_337> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0064";
+r-arco:archaeologicalSiteIdentifier "296";
+<https://pepadb.us.es/#archaeologicalStructure> "Potterne";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Potterne";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_338> r-arco:archaeologicalSiteIdentifier "297";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0072";
+lgdo:Country "France";
+juso:SecondLevelAdministrativeDivision "Pougues-les-Eaux";
+juso:FirstLevelAdministrativeDivision "Nièvre";
+<https://pepadb.us.es/#archaeologicalStructure> "Pougues-les-Eaux";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_339> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0021";
+r-arco:archaeologicalSiteIdentifier "293";
+<https://pepadb.us.es/#archaeologicalStructure> "Portella";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Portella";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_340> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0067";
+r-arco:archaeologicalSiteIdentifier "308";
+<https://pepadb.us.es/#archaeologicalStructure> "River Thames at Runnymede Bridge";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Berkshire";
+juso:SecondLevelAdministrativeDivision "Egham";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_341> r-arco:archaeologicalSiteIdentifier "309";
+<https://pepadb.us.es/#archaeologicalStructure> "Rocher de Comboire";
+juso:FirstLevelAdministrativeDivision "Isère";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0073";
+lgdo:Country "France";
+juso:SecondLevelAdministrativeDivision "Claix";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_342> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0068";
+r-arco:archaeologicalSiteIdentifier "310";
+<https://pepadb.us.es/#archaeologicalStructure> "Rochford";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Lincolnshire";
+juso:SecondLevelAdministrativeDivision "Stoke Rochford";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_343> juso:SecondLevelAdministrativeDivision "Melrand";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0074";
+r-arco:archaeologicalSiteIdentifier "311";
+<https://pepadb.us.es/#archaeologicalStructure> "Saint-Fiacre-en-Melran";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Morbihan";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_344> r-arco:archaeologicalSiteIdentifier "312";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0080";
+<https://pepadb.us.es/#archaeologicalStructure> "Saint-Rémy-de-Provence";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Bouches-du-Rhône";
+juso:SecondLevelAdministrativeDivision "Saint-Rémy-de-Provence";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_345> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0031";
+r-arco:archaeologicalSiteIdentifier "40";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G8 - Oakley Down";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Wylye";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_346> juso:FirstLevelAdministrativeDivision "León";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL09001";
+r-arco:archaeologicalSiteIdentifier "307";
+juso:SecondLevelAdministrativeDivision "Cistierna";
+<https://pepadb.us.es/#archaeologicalStructure> "Reguero Seco";
+a "Domestic";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_347> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0069";
+<https://pepadb.us.es/#archaeologicalStructure> "Salisbury Plain";
+r-arco:archaeologicalSiteIdentifier "313";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Shrewton";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_348> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08009";
+r-arco:archaeologicalSiteIdentifier "314";
+<https://pepadb.us.es/#archaeologicalStructure> "San Adrián";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Granucillo";
+a "Chamber";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_349> lgdo:Country "England";
+juso:SecondLevelAdministrativeDivision "Aldbourne";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0022";
+r-arco:archaeologicalSiteIdentifier "35";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow Aldbourne G14";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_350> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0024";
+r-arco:archaeologicalSiteIdentifier "328";
+<https://pepadb.us.es/#archaeologicalStructure> "Shaft Grave Omicron";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Argolis ";
+juso:SecondLevelAdministrativeDivision "Mykines";
+a "Natural cave";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_351> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0078";
+r-arco:archaeologicalSiteIdentifier "329";
+<https://pepadb.us.es/#archaeologicalStructure> "Sigottier";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Hautes-Alpes";
+juso:SecondLevelAdministrativeDivision "Sigottier";
+a "Natural cave";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_352> juso:FirstLevelAdministrativeDivision "Seine-et-Marne";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0063";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructure> "Marolles-sur-Seine";
+r-arco:archaeologicalSiteIdentifier "254";
+juso:SecondLevelAdministrativeDivision "Marolles-sur-Seine";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_353> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0064";
+r-arco:archaeologicalSiteIdentifier "255";
+<https://pepadb.us.es/#archaeologicalStructure> "Mas-Saint-Chély";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Lozère ";
+juso:SecondLevelAdministrativeDivision "Mas-Saint-Chély";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_354> ecpo:hasChronology "2nd";
+juso:SecondLevelAdministrativeDivision "Mega Monastirion";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0017";
+r-arco:archaeologicalSiteIdentifier "257";
+<https://pepadb.us.es/#archaeologicalStructure> "Mega Monastirion";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Thessaly" .
+<https://pepadb.us.es/#structure_355> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CAT03007";
+r-arco:archaeologicalSiteIdentifier "322";
+<https://pepadb.us.es/#archaeologicalStructure> "Sepulcro de la Pera";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Lleida";
+juso:SecondLevelAdministrativeDivision "Pinós";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_356> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0076";
+r-arco:archaeologicalSiteIdentifier "326";
+<https://pepadb.us.es/#archaeologicalStructure> "Sepulture Lesconil";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Finistère";
+juso:SecondLevelAdministrativeDivision "Plobannalec-Lesconil";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_357> <https://pepadb.us.es/#archaeologicalStructure> "Sorel-Moussel";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Eure-et-Loir";
+juso:SecondLevelAdministrativeDivision "Sorel-Moussel";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0079";
+r-arco:archaeologicalSiteIdentifier "331";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_358> lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructure> "Steep Lowe";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0074";
+r-arco:archaeologicalSiteIdentifier "333";
+juso:FirstLevelAdministrativeDivision "Staffordshire";
+juso:SecondLevelAdministrativeDivision "Alstonefield";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_359> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0019";
+r-arco:archaeologicalSiteIdentifier "38";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G1 - Upton great Barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Upton Lovell";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_360> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0020";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G12 - Cow Down";
+r-arco:archaeologicalSiteIdentifier "39";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Collingbourne Kingston";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_361> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0021";
+r-arco:archaeologicalSiteIdentifier "40";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G13 - Oakley Down";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Wylye";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_362> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0026";
+r-arco:archaeologicalSiteIdentifier "43";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G5J - Netdown group";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Shrewton";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_363> juso:SecondLevelAdministrativeDivision "Winterbourne Stoke";
+a "Barrow";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G67 - Winterbourne Stoke Wst Group";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0027";
+r-arco:archaeologicalSiteIdentifier "44";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_364> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0028";
+r-arco:archaeologicalSiteIdentifier "45";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G68";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Durrington";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_365> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0029";
+r-arco:archaeologicalSiteIdentifier "41";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G7 - Normanton Group";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Salisbury";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_366> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0030";
+r-arco:archaeologicalSiteIdentifier "41";
+<https://pepadb.us.es/#archaeologicalStructure> "Barrow G8 - Normanton Group";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Salisbury";
+a "Barrow";
+ecpo:hasChronology "3rd-2nd" .
+<https://pepadb.us.es/#structure_367> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS597-1";
+r-arco:archaeologicalSiteIdentifier "285";
+<https://pepadb.us.es/#archaeologicalStructure> "Perdigões - T1";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Évora";
+juso:SecondLevelAdministrativeDivision "Reguengos de Monsaraz - Reguengos de Monsaraz";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_368> lgdo:Country "England";
+<https://pepadb.us.es/#archaeologicalStructure> "Snail Down - Barrow G5";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0071";
+r-arco:archaeologicalSiteIdentifier "330";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Collingbourne Ducis";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_369> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0072";
+r-arco:archaeologicalSiteIdentifier "330";
+<https://pepadb.us.es/#archaeologicalStructure> "Snail Down - Barrow G8";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Collingbourne Ducis";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_370> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0073";
+r-arco:archaeologicalSiteIdentifier "332";
+<https://pepadb.us.es/#archaeologicalStructure> "Stanfordbury burial B";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Bedfordshire";
+juso:SecondLevelAdministrativeDivision "Stanford ";
+a "Barrow";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_371> r-arco:archaeologicalSiteIdentifier "334";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0016";
+<https://pepadb.us.es/#archaeologicalStructure> "Szoreg";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Csongrád-Csanád";
+juso:SecondLevelAdministrativeDivision "Sz?reg ";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_372> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0160";
+r-arco:archaeologicalSiteIdentifier "335";
+<https://pepadb.us.es/#archaeologicalStructure> "Tap O'Noth hillfort";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Aberdeenshire";
+juso:SecondLevelAdministrativeDivision "Rhynie ";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_373> <https://pepadb.us.es/#archaeologicalStructure> "Teikhos Dymaion";
+r-arco:archaeologicalSiteIdentifier "336";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0025";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Achaea";
+juso:SecondLevelAdministrativeDivision "Araxos";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_374> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0075";
+r-arco:archaeologicalSiteIdentifier "339";
+<https://pepadb.us.es/#archaeologicalStructure> "The Golden Barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Boyton";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_375> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND08003";
+r-arco:archaeologicalSiteIdentifier "340";
+<https://pepadb.us.es/#archaeologicalStructure> "Tholos de La Pastora";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Sevilla";
+juso:SecondLevelAdministrativeDivision "Valencina de la Concepción";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_376> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "AND08016";
+r-arco:archaeologicalSiteIdentifier "341";
+<https://pepadb.us.es/#archaeologicalStructure> "Tholos de Montelirio";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Sevilla";
+juso:SecondLevelAdministrativeDivision "Castilleja de Guzmán";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_377> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04008";
+r-arco:archaeologicalSiteIdentifier "345";
+<https://pepadb.us.es/#archaeologicalStructure> "Tierras Lineras";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+juso:SecondLevelAdministrativeDivision "La Mata de Ledesma";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_378> r-arco:archaeologicalSiteIdentifier "348";
+<https://pepadb.us.es/#archaeologicalStructure> "Trikuaizti I";
+a "Dolmen";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Guipúzcoa - Gipuzkoa";
+juso:SecondLevelAdministrativeDivision "Beasain";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "PV03004";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_379> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0001";
+r-arco:archaeologicalSiteIdentifier "1";
+<https://pepadb.us.es/#archaeologicalStructure> "Adabrock";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Na h-Eileanan Siar";
+juso:SecondLevelAdministrativeDivision "Ness (Isle of Lewis)";
+a "Barrow";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_380> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS3512";
+r-arco:archaeologicalSiteIdentifier "3";
+<https://pepadb.us.es/#archaeologicalStructure> "Alcalar 3";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Faro";
+juso:SecondLevelAdministrativeDivision "Portimao - Mexilhoeira Grande";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_381> lgdo:Country "Italy";
+r-arco:archaeologicalSiteIdentifier "338";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0019";
+<https://pepadb.us.es/#archaeologicalStructure> "Thapsos";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Priolo Gargallo";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_382> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "HUN0017";
+r-arco:archaeologicalSiteIdentifier "346";
+<https://pepadb.us.es/#archaeologicalStructure> "Tiszakeszi - Szódadomb";
+lgdo:Country "Hungary";
+juso:FirstLevelAdministrativeDivision "Borsod-Abaúj-Zemplén";
+juso:SecondLevelAdministrativeDivision "Tiszakeszi";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_383> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0077";
+r-arco:archaeologicalSiteIdentifier "347";
+<https://pepadb.us.es/#archaeologicalStructure> "Tor Mead";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Great Bedwyn";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_384> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0013";
+r-arco:archaeologicalSiteIdentifier "349";
+<https://pepadb.us.es/#archaeologicalStructure> "Trinitapoli";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Barletta-Andria-Trani";
+juso:SecondLevelAdministrativeDivision "Trinitapoli";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_385> juso:FirstLevelAdministrativeDivision "Hatay Province";
+juso:SecondLevelAdministrativeDivision "Varisli";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "TUR0001";
+r-arco:archaeologicalSiteIdentifier "2";
+<https://pepadb.us.es/#archaeologicalStructure> "Alalakh";
+lgdo:Country "Turkey";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_386> juso:SecondLevelAdministrativeDivision "Melrand";
+juso:FirstLevelAdministrativeDivision "Morbihan";
+lgdo:Country "France";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0084";
+r-arco:archaeologicalSiteIdentifier "350";
+<https://pepadb.us.es/#archaeologicalStructure> "Túmulo de St Fiacre";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_387> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0085";
+r-arco:archaeologicalSiteIdentifier "351";
+<https://pepadb.us.es/#archaeologicalStructure> "Tumulus de Kernonen";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Finistère";
+juso:SecondLevelAdministrativeDivision "Plouvorn";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_388> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0086";
+r-arco:archaeologicalSiteIdentifier "352";
+<https://pepadb.us.es/#archaeologicalStructure> "Tumulus de La Fôret";
+juso:FirstLevelAdministrativeDivision "Bas-Rhin";
+juso:SecondLevelAdministrativeDivision "Haguenau";
+lgdo:Country "France";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_389> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0087";
+r-arco:archaeologicalSiteIdentifier "353";
+<https://pepadb.us.es/#archaeologicalStructure> "Tumulus du Ballon";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Pas-de-Calais";
+juso:SecondLevelAdministrativeDivision "Wimereux";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_390> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS7234";
+r-arco:archaeologicalSiteIdentifier "3";
+<https://pepadb.us.es/#archaeologicalStructure> "Alcalar 4";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Faro";
+juso:SecondLevelAdministrativeDivision "Portimao - Mexilhoeira Grande";
+a "Tholos";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_391> juso:SecondLevelAdministrativeDivision "Aldeavieja de Tormes";
+a "Passage grave";
+r-arco:archaeologicalSiteIdentifier "4";
+lgdo:Country "Spain";
+<https://pepadb.us.es/#archaeologicalStructure> "Aldea del Teriñuelo";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL04007";
+juso:FirstLevelAdministrativeDivision "Salamanca";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_392> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL01001";
+r-arco:archaeologicalSiteIdentifier "5";
+<https://pepadb.us.es/#archaeologicalStructure> "Aldeagordillo";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Ávila";
+juso:SecondLevelAdministrativeDivision "Ávila";
+a "Domestic";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_393> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "SCO0018";
+r-arco:archaeologicalSiteIdentifier "354";
+<https://pepadb.us.es/#archaeologicalStructure> "Tumulus Rosshire";
+lgdo:Country "Scotland";
+juso:FirstLevelAdministrativeDivision "Highland";
+juso:SecondLevelAdministrativeDivision "Edderton";
+a "Barrow";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_394> ecpo:hasChronology "3rd-1st";
+juso:SecondLevelAdministrativeDivision "Charney Bassett";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0081";
+<https://pepadb.us.es/#archaeologicalStructure> "Wick Farm - Ring ditch 16";
+r-arco:archaeologicalSiteIdentifier "362";
+lgdo:Country "England";
+a "Barrow";
+juso:FirstLevelAdministrativeDivision "Oxfordshire" .
+<https://pepadb.us.es/#structure_395> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0082";
+r-arco:archaeologicalSiteIdentifier "363";
+<https://pepadb.us.es/#archaeologicalStructure> "Wigberlow barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Derbyshire";
+juso:SecondLevelAdministrativeDivision "Litton";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_396> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0083";
+r-arco:archaeologicalSiteIdentifier "41";
+<https://pepadb.us.es/#archaeologicalStructure> "Wilsford Shaft - Normanton Down";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "Wilsford cum Lake";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_397> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0084";
+r-arco:archaeologicalSiteIdentifier "364";
+<https://pepadb.us.es/#archaeologicalStructure> "Winterslow barrow JFSS3";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+juso:SecondLevelAdministrativeDivision "West Winterslow";
+a "Barrow";
+ecpo:hasChronology "3rd-1st" .
+<https://pepadb.us.es/#structure_398> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CNS1773";
+r-arco:archaeologicalSiteIdentifier "368";
+<https://pepadb.us.es/#archaeologicalStructure> "Buraca da Moura da Rexaldia (Gruta da Rexaldia)";
+lgdo:Country "Portugal";
+juso:FirstLevelAdministrativeDivision "Santarém";
+juso:SecondLevelAdministrativeDivision "Torres Novas - Chancelaria";
+a "Natural cave";
+ecpo:hasChronology "4th-3rd" .
+<https://pepadb.us.es/#structure_399> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0058";
+r-arco:archaeologicalSiteIdentifier "232";
+<https://pepadb.us.es/#archaeologicalStructure> "Lann Porz Menech";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Morbihan";
+juso:SecondLevelAdministrativeDivision "Ploemeur";
+a "Cairn";
+ecpo:hasChronology "5th-3rd" .
+<https://pepadb.us.es/#structure_400> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM05002";
+r-arco:archaeologicalSiteIdentifier "358";
+<https://pepadb.us.es/#archaeologicalStructure> "Valle de las Higueras 1";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Toledo";
+juso:SecondLevelAdministrativeDivision "Huecas";
+a "Artificial cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_401> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CLM05003";
+r-arco:archaeologicalSiteIdentifier "358";
+<https://pepadb.us.es/#archaeologicalStructure> "Valle de las Higueras 3";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Toledo";
+juso:SecondLevelAdministrativeDivision "Huecas";
+a "Artificial cave";
+ecpo:hasChronology "3rd" .
+<https://pepadb.us.es/#structure_402> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "WAL0006";
+r-arco:archaeologicalSiteIdentifier "355";
+<https://pepadb.us.es/#archaeologicalStructure> "Ty Mawr Farm";
+lgdo:Country "Wales";
+juso:FirstLevelAdministrativeDivision "Gwynedd";
+juso:SecondLevelAdministrativeDivision "Brecon";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_403> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0078";
+r-arco:archaeologicalSiteIdentifier "356";
+<https://pepadb.us.es/#archaeologicalStructure> "Ulrome";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Yorkshire - East Riding";
+juso:SecondLevelAdministrativeDivision "Ulrome ";
+ecpo:hasChronology "1st" .
+<https://pepadb.us.es/#structure_404> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "CL08013";
+r-arco:archaeologicalSiteIdentifier "357";
+<https://pepadb.us.es/#archaeologicalStructure> "Valdefinjas";
+lgdo:Country "Spain";
+juso:FirstLevelAdministrativeDivision "Zamora";
+juso:SecondLevelAdministrativeDivision "Valdefinjas";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_405> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "ITA0015";
+r-arco:archaeologicalSiteIdentifier "359";
+<https://pepadb.us.es/#archaeologicalStructure> "Valsavoia";
+lgdo:Country "Italy";
+juso:FirstLevelAdministrativeDivision "Sicily";
+juso:SecondLevelAdministrativeDivision "Lentini";
+ecpo:hasChronology "Undefined" .
+<https://pepadb.us.es/#structure_406> juso:SecondLevelAdministrativeDivision "Westbury";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0079";
+r-arco:archaeologicalSiteIdentifier "360";
+<https://pepadb.us.es/#archaeologicalStructure> "Westbury Ironworks";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "Wiltshire";
+ecpo:hasChronology "2nd-1st" .
+<https://pepadb.us.es/#structure_407> r-arco:archaeologicalSiteIdentifier "361";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "ENG0080";
+<https://pepadb.us.es/#archaeologicalStructure> "Whitegrounds round barrow";
+lgdo:Country "England";
+juso:FirstLevelAdministrativeDivision "North Yorkshire";
+juso:SecondLevelAdministrativeDivision "Burythorpe";
+ecpo:hasChronology "5th-4th" .
+<https://pepadb.us.es/#structure_408> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0030";
+r-arco:archaeologicalSiteIdentifier "367";
+<https://pepadb.us.es/#archaeologicalStructure> "Mycenae Aigisthos";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Argolis";
+juso:SecondLevelAdministrativeDivision "Mykines";
+ecpo:hasChronology "2nd" .
+<https://pepadb.us.es/#structure_409> ecpo:hasChronology "Undefined";
+r-arco:archaeologicalSiteIdentifier "365";
+juso:SecondLevelAdministrativeDivision "Xanton-Chassenon";
+lgdo:Country "France";
+juso:FirstLevelAdministrativeDivision "Vendée";
+<https://pepadb.us.es/#archaeologicalStructure> "Xanton - Chassenon";
+<https://pepadb.us.es/#archaeologicalStructureIdentifier> "FRA0089" .
+<https://pepadb.us.es/#structure_410> <https://pepadb.us.es/#archaeologicalStructureIdentifier> "GRE0029";
+r-arco:archaeologicalSiteIdentifier "366";
+<https://pepadb.us.es/#archaeologicalStructure> "Zakynthos";
+lgdo:Country "Greece";
+juso:FirstLevelAdministrativeDivision "Ionian Islands";
+juso:SecondLevelAdministrativeDivision "Zákynthos";
+ecpo:hasChronology "2nd" .

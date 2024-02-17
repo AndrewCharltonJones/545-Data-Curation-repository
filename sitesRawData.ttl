@@ -1,0 +1,775 @@
+@prefix lgdo: <http://linkedgeodata.org/ontology/> .
+@prefix r-arco: <https://w3id.org/arco/ontology/arco/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+<https://pepadb.us.es/#opendatalicensing>
+    dcterms:license <https://creativecommons.org/licenses/by-nc-sa/4.0/> .
+    
+<https://pepadb.us.es/#site_0> r-arco:archaeologicalSiteIdentifier "1";
+lgdo:ArchaeologicalSite "Adabrock" .
+<https://pepadb.us.es/#site_1> r-arco:archaeologicalSiteIdentifier "2";
+lgdo:ArchaeologicalSite "Alalakh" .
+<https://pepadb.us.es/#site_2> r-arco:archaeologicalSiteIdentifier "3";
+lgdo:ArchaeologicalSite "Alcalar " .
+<https://pepadb.us.es/#site_3> r-arco:archaeologicalSiteIdentifier "4";
+lgdo:ArchaeologicalSite "Aldea del Teriñuelo" .
+<https://pepadb.us.es/#site_4> r-arco:archaeologicalSiteIdentifier "5";
+lgdo:ArchaeologicalSite "Aldeagordillo" .
+<https://pepadb.us.es/#site_5> r-arco:archaeologicalSiteIdentifier "6";
+lgdo:ArchaeologicalSite "Alto del Reinoso" .
+<https://pepadb.us.es/#site_6> r-arco:archaeologicalSiteIdentifier "7";
+lgdo:ArchaeologicalSite "Ambérieu-en-Bugey" .
+<https://pepadb.us.es/#site_7> r-arco:archaeologicalSiteIdentifier "8";
+lgdo:ArchaeologicalSite "Analipsi" .
+<https://pepadb.us.es/#site_8> r-arco:archaeologicalSiteIdentifier "12";
+lgdo:ArchaeologicalSite "Argelliers" .
+<https://pepadb.us.es/#site_9> r-arco:archaeologicalSiteIdentifier "13";
+lgdo:ArchaeologicalSite "Arras - Market Weighton" .
+<https://pepadb.us.es/#site_10> r-arco:archaeologicalSiteIdentifier "14";
+lgdo:ArchaeologicalSite "Arroyal I" .
+<https://pepadb.us.es/#site_11> r-arco:archaeologicalSiteIdentifier "15";
+lgdo:ArchaeologicalSite "Arroyo de las Vegas" .
+<https://pepadb.us.es/#site_12> r-arco:archaeologicalSiteIdentifier "16";
+lgdo:ArchaeologicalSite "Ashville Trading Estate" .
+<https://pepadb.us.es/#site_13> r-arco:archaeologicalSiteIdentifier "17";
+lgdo:ArchaeologicalSite "Asine" .
+<https://pepadb.us.es/#site_14> r-arco:archaeologicalSiteIdentifier "18";
+lgdo:ArchaeologicalSite "Athens Agora" .
+<https://pepadb.us.es/#site_15> lgdo:ArchaeologicalSite "Aubais";
+r-arco:archaeologicalSiteIdentifier "19" .
+<https://pepadb.us.es/#site_16> r-arco:archaeologicalSiteIdentifier "20";
+lgdo:ArchaeologicalSite "Aumelas" .
+<https://pepadb.us.es/#site_17> r-arco:archaeologicalSiteIdentifier "21";
+lgdo:ArchaeologicalSite "Baigneurs - Charavines" .
+<https://pepadb.us.es/#site_18> r-arco:archaeologicalSiteIdentifier "22";
+lgdo:ArchaeologicalSite "Baks - Levelény" .
+<https://pepadb.us.es/#site_19> r-arco:archaeologicalSiteIdentifier "23";
+lgdo:ArchaeologicalSite "Balgay" .
+<https://pepadb.us.es/#site_20> r-arco:archaeologicalSiteIdentifier "24";
+lgdo:ArchaeologicalSite "Balmashanner" .
+<https://pepadb.us.es/#site_21> r-arco:archaeologicalSiteIdentifier "25";
+lgdo:ArchaeologicalSite "Bampfylde Hill" .
+<https://pepadb.us.es/#site_22> r-arco:archaeologicalSiteIdentifier "26";
+lgdo:ArchaeologicalSite "Barát cave" .
+<https://pepadb.us.es/#site_23> r-arco:archaeologicalSiteIdentifier "27";
+lgdo:ArchaeologicalSite "Barbey" .
+<https://pepadb.us.es/#site_24> r-arco:archaeologicalSiteIdentifier "28";
+lgdo:ArchaeologicalSite "Barbuise - Courtavant" .
+<https://pepadb.us.es/#site_25> lgdo:ArchaeologicalSite "Barnett Copse";
+r-arco:archaeologicalSiteIdentifier "29" .
+<https://pepadb.us.es/#site_26> r-arco:archaeologicalSiteIdentifier "30";
+lgdo:ArchaeologicalSite "Barrow - Mount Caburn" .
+<https://pepadb.us.es/#site_27> r-arco:archaeologicalSiteIdentifier "31";
+lgdo:ArchaeologicalSite "Barrow - Site n4" .
+<https://pepadb.us.es/#site_28> r-arco:archaeologicalSiteIdentifier "32";
+lgdo:ArchaeologicalSite "Barrow 1 - Hill Field" .
+<https://pepadb.us.es/#site_29> r-arco:archaeologicalSiteIdentifier "33";
+lgdo:ArchaeologicalSite "Barrow 25 - Rollestone Field Group" .
+<https://pepadb.us.es/#site_30> r-arco:archaeologicalSiteIdentifier "34";
+lgdo:ArchaeologicalSite "Barrow Abney Moor" .
+<https://pepadb.us.es/#site_31> r-arco:archaeologicalSiteIdentifier "35";
+lgdo:ArchaeologicalSite "Barrow Aldbourne" .
+<https://pepadb.us.es/#site_32> r-arco:archaeologicalSiteIdentifier "36";
+lgdo:ArchaeologicalSite "Barrow Amesbury " .
+<https://pepadb.us.es/#site_33> r-arco:archaeologicalSiteIdentifier "37";
+lgdo:ArchaeologicalSite "Newton Barrow" .
+<https://pepadb.us.es/#site_34> r-arco:archaeologicalSiteIdentifier "38";
+lgdo:ArchaeologicalSite "Upton great Barrow" .
+<https://pepadb.us.es/#site_35> r-arco:archaeologicalSiteIdentifier "39";
+lgdo:ArchaeologicalSite "Cow Down" .
+<https://pepadb.us.es/#site_36> r-arco:archaeologicalSiteIdentifier "40";
+lgdo:ArchaeologicalSite "Oakley Down" .
+<https://pepadb.us.es/#site_37> r-arco:archaeologicalSiteIdentifier "41";
+lgdo:ArchaeologicalSite "Normanton Group" .
+<https://pepadb.us.es/#site_38> lgdo:ArchaeologicalSite "The Manton Barrow";
+r-arco:archaeologicalSiteIdentifier "42" .
+<https://pepadb.us.es/#site_39> r-arco:archaeologicalSiteIdentifier "43";
+lgdo:ArchaeologicalSite "Netdown group" .
+<https://pepadb.us.es/#site_40> r-arco:archaeologicalSiteIdentifier "44";
+lgdo:ArchaeologicalSite "Winterbourne Stoke Wst Group" .
+<https://pepadb.us.es/#site_41> r-arco:archaeologicalSiteIdentifier "45";
+lgdo:ArchaeologicalSite "Barrow G68 Durrington" .
+<https://pepadb.us.es/#site_42> r-arco:archaeologicalSiteIdentifier "46";
+lgdo:ArchaeologicalSite "Barrow III Bourton-on-the-Water" .
+<https://pepadb.us.es/#site_43> r-arco:archaeologicalSiteIdentifier "47";
+lgdo:ArchaeologicalSite "Battonya" .
+<https://pepadb.us.es/#site_44> r-arco:archaeologicalSiteIdentifier "48";
+lgdo:ArchaeologicalSite "Baume de La Roche" .
+<https://pepadb.us.es/#site_45> r-arco:archaeologicalSiteIdentifier "49";
+lgdo:ArchaeologicalSite "Bedd Branwen" .
+<https://pepadb.us.es/#site_46> r-arco:archaeologicalSiteIdentifier "50";
+lgdo:ArchaeologicalSite "Bela Vista" .
+<https://pepadb.us.es/#site_47> r-arco:archaeologicalSiteIdentifier "51";
+lgdo:ArchaeologicalSite "Bélesta" .
+<https://pepadb.us.es/#site_48> r-arco:archaeologicalSiteIdentifier "52";
+lgdo:ArchaeologicalSite "Beneceto" .
+<https://pepadb.us.es/#site_49> r-arco:archaeologicalSiteIdentifier "53";
+lgdo:ArchaeologicalSite "Berrias" .
+<https://pepadb.us.es/#site_50> r-arco:archaeologicalSiteIdentifier "54";
+lgdo:ArchaeologicalSite "Bessingham" .
+<https://pepadb.us.es/#site_51> r-arco:archaeologicalSiteIdentifier "55";
+lgdo:ArchaeologicalSite "Billy" .
+<https://pepadb.us.es/#site_52> r-arco:archaeologicalSiteIdentifier "56";
+lgdo:ArchaeologicalSite "Bismantova" .
+<https://pepadb.us.es/#site_53> r-arco:archaeologicalSiteIdentifier "57";
+lgdo:ArchaeologicalSite "Bizzieberry Hill" .
+<https://pepadb.us.es/#site_54> r-arco:archaeologicalSiteIdentifier "58";
+lgdo:ArchaeologicalSite "Blackheath Barrow - Blackheath Cross" .
+<https://pepadb.us.es/#site_55> r-arco:archaeologicalSiteIdentifier "59";
+lgdo:ArchaeologicalSite "Blanquizares de Lébor" .
+<https://pepadb.us.es/#site_56> r-arco:archaeologicalSiteIdentifier "60";
+lgdo:ArchaeologicalSite "Blawearie cairn - Old Bewick" .
+<https://pepadb.us.es/#site_57> r-arco:archaeologicalSiteIdentifier "61";
+lgdo:ArchaeologicalSite "Blinmill Farm" .
+<https://pepadb.us.es/#site_58> r-arco:archaeologicalSiteIdentifier "62";
+lgdo:ArchaeologicalSite "Bölcske" .
+<https://pepadb.us.es/#site_59> lgdo:ArchaeologicalSite "Boscregan - Carn Creis - Barrow III";
+r-arco:archaeologicalSiteIdentifier "63" .
+<https://pepadb.us.es/#site_60> r-arco:archaeologicalSiteIdentifier "64";
+lgdo:ArchaeologicalSite "Breiddin hillfort" .
+<https://pepadb.us.es/#site_61> r-arco:archaeologicalSiteIdentifier "65";
+lgdo:ArchaeologicalSite "Brunbachmatt" .
+<https://pepadb.us.es/#site_62> r-arco:archaeologicalSiteIdentifier "66";
+lgdo:ArchaeologicalSite "Burntisland" .
+<https://pepadb.us.es/#site_63> r-arco:archaeologicalSiteIdentifier "67";
+lgdo:ArchaeologicalSite "Cabana del Moro de Colomera" .
+<https://pepadb.us.es/#site_64> r-arco:archaeologicalSiteIdentifier "68";
+lgdo:ArchaeologicalSite "Cabecinho de Capitõa" .
+<https://pepadb.us.es/#site_65> r-arco:archaeologicalSiteIdentifier "69";
+lgdo:ArchaeologicalSite "Cabezo Redondo" .
+<https://pepadb.us.es/#site_66> r-arco:archaeologicalSiteIdentifier "70";
+lgdo:ArchaeologicalSite "Campestrin" .
+<https://pepadb.us.es/#site_67> r-arco:archaeologicalSiteIdentifier "72";
+lgdo:ArchaeologicalSite "Canourge" .
+<https://pepadb.us.es/#site_68> r-arco:archaeologicalSiteIdentifier "74";
+lgdo:ArchaeologicalSite "Cantera" .
+<https://pepadb.us.es/#site_69> r-arco:archaeologicalSiteIdentifier "75";
+lgdo:ArchaeologicalSite "Caño Ronco I" .
+<https://pepadb.us.es/#site_70> r-arco:archaeologicalSiteIdentifier "76";
+lgdo:ArchaeologicalSite "Casetón de la Era" .
+<https://pepadb.us.es/#site_71> r-arco:archaeologicalSiteIdentifier "77";
+lgdo:ArchaeologicalSite "Castelo Velho do Caratão" .
+<https://pepadb.us.es/#site_72> r-arco:archaeologicalSiteIdentifier "78";
+lgdo:ArchaeologicalSite "Castillejo del Bonete" .
+<https://pepadb.us.es/#site_73> r-arco:archaeologicalSiteIdentifier "79";
+lgdo:ArchaeologicalSite "Castro de Nossa Senhora da Guia" .
+<https://pepadb.us.es/#site_74> r-arco:archaeologicalSiteIdentifier "80";
+lgdo:ArchaeologicalSite "Cava Cana Barbara" .
+<https://pepadb.us.es/#site_75> r-arco:archaeologicalSiteIdentifier "81";
+lgdo:ArchaeologicalSite "Cavaleiros 1 - Anta da Capela" .
+<https://pepadb.us.es/#site_76> r-arco:archaeologicalSiteIdentifier "82";
+lgdo:ArchaeologicalSite "Cazevieille" .
+<https://pepadb.us.es/#site_77> r-arco:archaeologicalSiteIdentifier "83";
+lgdo:ArchaeologicalSite "Cerro Ortega" .
+<https://pepadb.us.es/#site_78> r-arco:archaeologicalSiteIdentifier "84";
+lgdo:ArchaeologicalSite "Chalandritsa" .
+<https://pepadb.us.es/#site_79> r-arco:archaeologicalSiteIdentifier "85";
+lgdo:ArchaeologicalSite "Choisy-au-Bac" .
+<https://pepadb.us.es/#site_80> r-arco:archaeologicalSiteIdentifier "86";
+lgdo:ArchaeologicalSite "Chousa Nova" .
+<https://pepadb.us.es/#site_81> r-arco:archaeologicalSiteIdentifier "87";
+lgdo:ArchaeologicalSite "Ciella" .
+<https://pepadb.us.es/#site_82> r-arco:archaeologicalSiteIdentifier "88";
+lgdo:ArchaeologicalSite "Cisternino" .
+<https://pepadb.us.es/#site_83> r-arco:archaeologicalSiteIdentifier "89";
+lgdo:ArchaeologicalSite "Civezzano" .
+<https://pepadb.us.es/#site_84> r-arco:archaeologicalSiteIdentifier "90";
+lgdo:ArchaeologicalSite "Cles" .
+<https://pepadb.us.es/#site_85> r-arco:archaeologicalSiteIdentifier "91";
+lgdo:ArchaeologicalSite "Collias" .
+<https://pepadb.us.es/#site_86> r-arco:archaeologicalSiteIdentifier "92";
+lgdo:ArchaeologicalSite "Comenda da Igreja 1" .
+<https://pepadb.us.es/#site_87> r-arco:archaeologicalSiteIdentifier "93";
+lgdo:ArchaeologicalSite "Coppa Nevigata" .
+<https://pepadb.us.es/#site_88> r-arco:archaeologicalSiteIdentifier "94";
+lgdo:ArchaeologicalSite "Corôa do Frade" .
+<https://pepadb.us.es/#site_89> r-arco:archaeologicalSiteIdentifier "95";
+lgdo:ArchaeologicalSite "Cos - Eleona and Langada" .
+<https://pepadb.us.es/#site_90> r-arco:archaeologicalSiteIdentifier "96";
+lgdo:ArchaeologicalSite "Coto Alto" .
+<https://pepadb.us.es/#site_91> r-arco:archaeologicalSiteIdentifier "97";
+lgdo:ArchaeologicalSite "Coulounieix - Chamiers" .
+<https://pepadb.us.es/#site_92> r-arco:archaeologicalSiteIdentifier "98";
+lgdo:ArchaeologicalSite "Cova de Can Mauri" .
+<https://pepadb.us.es/#site_93> r-arco:archaeologicalSiteIdentifier "99";
+lgdo:ArchaeologicalSite "Cova de la Pastora" .
+<https://pepadb.us.es/#site_94> r-arco:archaeologicalSiteIdentifier "100";
+lgdo:ArchaeologicalSite "Cova de la Roca del Frare" .
+<https://pepadb.us.es/#site_95> r-arco:archaeologicalSiteIdentifier "101";
+lgdo:ArchaeologicalSite "Cova de Les Pixarelles" .
+<https://pepadb.us.es/#site_96> r-arco:archaeologicalSiteIdentifier "102";
+lgdo:ArchaeologicalSite "Cova del Frare" .
+<https://pepadb.us.es/#site_97> r-arco:archaeologicalSiteIdentifier "104";
+lgdo:ArchaeologicalSite "Cova del Gegant" .
+<https://pepadb.us.es/#site_98> r-arco:archaeologicalSiteIdentifier "105";
+lgdo:ArchaeologicalSite "Cova del Llidoner" .
+<https://pepadb.us.es/#site_99> r-arco:archaeologicalSiteIdentifier "106";
+lgdo:ArchaeologicalSite "Cova dels Muricecs de Cellers" .
+<https://pepadb.us.es/#site_100> lgdo:ArchaeologicalSite "Crozon";
+r-arco:archaeologicalSiteIdentifier "107" .
+<https://pepadb.us.es/#site_101> r-arco:archaeologicalSiteIdentifier "108";
+lgdo:ArchaeologicalSite "Csongrád-Felgyo" .
+<https://pepadb.us.es/#site_102> r-arco:archaeologicalSiteIdentifier "109";
+lgdo:ArchaeologicalSite "Cubillejo de Lara de los Infantes" .
+<https://pepadb.us.es/#site_103> r-arco:archaeologicalSiteIdentifier "110";
+lgdo:ArchaeologicalSite "Cueva de Casla" .
+<https://pepadb.us.es/#site_104> r-arco:archaeologicalSiteIdentifier "112";
+lgdo:ArchaeologicalSite "Cueva de las Ventanas" .
+<https://pepadb.us.es/#site_105> lgdo:ArchaeologicalSite "Cueva de los Cuarenta";
+r-arco:archaeologicalSiteIdentifier "113" .
+<https://pepadb.us.es/#site_106> r-arco:archaeologicalSiteIdentifier "114";
+lgdo:ArchaeologicalSite "Culbin Sands" .
+<https://pepadb.us.es/#site_107> r-arco:archaeologicalSiteIdentifier "115";
+lgdo:ArchaeologicalSite "Cullen of Buchan" .
+<https://pepadb.us.es/#site_108> r-arco:archaeologicalSiteIdentifier "116";
+lgdo:ArchaeologicalSite "Dachshubel" .
+<https://pepadb.us.es/#site_109> r-arco:archaeologicalSiteIdentifier "117";
+lgdo:ArchaeologicalSite "Danes Graves - Barrow 5" .
+<https://pepadb.us.es/#site_110> r-arco:archaeologicalSiteIdentifier "118";
+lgdo:ArchaeologicalSite "Debata Realengo" .
+<https://pepadb.us.es/#site_111> r-arco:archaeologicalSiteIdentifier "119";
+lgdo:ArchaeologicalSite "Dehesa de Río Fortes" .
+<https://pepadb.us.es/#site_112> r-arco:archaeologicalSiteIdentifier "120";
+lgdo:ArchaeologicalSite "Delphi" .
+<https://pepadb.us.es/#site_113> r-arco:archaeologicalSiteIdentifier "121";
+lgdo:ArchaeologicalSite "Dendra" .
+<https://pepadb.us.es/#site_114> r-arco:archaeologicalSiteIdentifier "122";
+lgdo:ArchaeologicalSite "Dolmen de Alberite" .
+<https://pepadb.us.es/#site_115> r-arco:archaeologicalSiteIdentifier "124";
+lgdo:ArchaeologicalSite "Dolmen de Grailhe" .
+<https://pepadb.us.es/#site_116> r-arco:archaeologicalSiteIdentifier "125";
+lgdo:ArchaeologicalSite "Dolmen de la Drailhe" .
+<https://pepadb.us.es/#site_117> r-arco:archaeologicalSiteIdentifier "126";
+lgdo:ArchaeologicalSite "Dolmen de la Marque" .
+<https://pepadb.us.es/#site_118> r-arco:archaeologicalSiteIdentifier "127";
+lgdo:ArchaeologicalSite "Dolmen de la Pierre Folle" .
+<https://pepadb.us.es/#site_119> r-arco:archaeologicalSiteIdentifier "128";
+lgdo:ArchaeologicalSite "Dolmen de la Rosa" .
+<https://pepadb.us.es/#site_120> r-arco:archaeologicalSiteIdentifier "129";
+lgdo:ArchaeologicalSite "Dolmen de Puyraveau" .
+<https://pepadb.us.es/#site_121> lgdo:ArchaeologicalSite "Dolmen du Devezas";
+r-arco:archaeologicalSiteIdentifier "130" .
+<https://pepadb.us.es/#site_122> r-arco:archaeologicalSiteIdentifier "131";
+lgdo:ArchaeologicalSite "Dolmen du Rieutort" .
+<https://pepadb.us.es/#site_123> r-arco:archaeologicalSiteIdentifier "132";
+lgdo:ArchaeologicalSite "Dolmen II du Bois-bas" .
+<https://pepadb.us.es/#site_124> r-arco:archaeologicalSiteIdentifier "133";
+lgdo:ArchaeologicalSite "Dolmen Portillo de las Cortes" .
+<https://pepadb.us.es/#site_125> r-arco:archaeologicalSiteIdentifier "134";
+lgdo:ArchaeologicalSite "Donja Bitinja" .
+<https://pepadb.us.es/#site_126> r-arco:archaeologicalSiteIdentifier "135";
+lgdo:ArchaeologicalSite "Donzère" .
+<https://pepadb.us.es/#site_127> lgdo:ArchaeologicalSite "Dunaujváros - Kosziderpadlás";
+r-arco:archaeologicalSiteIdentifier "136" .
+<https://pepadb.us.es/#site_128> r-arco:archaeologicalSiteIdentifier "137";
+lgdo:ArchaeologicalSite "Dyfnant Forest" .
+<https://pepadb.us.es/#site_129> r-arco:archaeologicalSiteIdentifier "138";
+lgdo:ArchaeologicalSite "Easton Down - Winterslow site" .
+<https://pepadb.us.es/#site_130> r-arco:archaeologicalSiteIdentifier "139";
+lgdo:ArchaeologicalSite "Easton Lane Interchange" .
+<https://pepadb.us.es/#site_131> r-arco:archaeologicalSiteIdentifier "140";
+lgdo:ArchaeologicalSite "Ecorneboeuf" .
+<https://pepadb.us.es/#site_132> r-arco:archaeologicalSiteIdentifier "141";
+lgdo:ArchaeologicalSite "El Castellón" .
+<https://pepadb.us.es/#site_133> r-arco:archaeologicalSiteIdentifier "142";
+lgdo:ArchaeologicalSite "El Cimajo" .
+<https://pepadb.us.es/#site_134> r-arco:archaeologicalSiteIdentifier "143";
+lgdo:ArchaeologicalSite "El Guijo" .
+<https://pepadb.us.es/#site_135> r-arco:archaeologicalSiteIdentifier "144";
+lgdo:ArchaeologicalSite "El Hornazo (fondo 103)" .
+<https://pepadb.us.es/#site_136> r-arco:archaeologicalSiteIdentifier "145";
+lgdo:ArchaeologicalSite "El Juncal I" .
+<https://pepadb.us.es/#site_137> r-arco:archaeologicalSiteIdentifier "146";
+lgdo:ArchaeologicalSite "El Miradero" .
+<https://pepadb.us.es/#site_138> r-arco:archaeologicalSiteIdentifier "147";
+lgdo:ArchaeologicalSite "El Ollar" .
+<https://pepadb.us.es/#site_139> r-arco:archaeologicalSiteIdentifier "148";
+lgdo:ArchaeologicalSite "El Pedroso" .
+<https://pepadb.us.es/#site_140> r-arco:archaeologicalSiteIdentifier "150";
+lgdo:ArchaeologicalSite "El Soto" .
+<https://pepadb.us.es/#site_141> r-arco:archaeologicalSiteIdentifier "151";
+lgdo:ArchaeologicalSite "El Tesoro" .
+<https://pepadb.us.es/#site_142> r-arco:archaeologicalSiteIdentifier "152";
+lgdo:ArchaeologicalSite "El Tomillar" .
+<https://pepadb.us.es/#site_143> r-arco:archaeologicalSiteIdentifier "153";
+lgdo:ArchaeologicalSite "Elaphotopos" .
+<https://pepadb.us.es/#site_144> r-arco:archaeologicalSiteIdentifier "154";
+lgdo:ArchaeologicalSite "Elis" .
+<https://pepadb.us.es/#site_145> r-arco:archaeologicalSiteIdentifier "155";
+lgdo:ArchaeologicalSite "Elm Road - Site 44" .
+<https://pepadb.us.es/#site_146> r-arco:archaeologicalSiteIdentifier "156";
+lgdo:ArchaeologicalSite "Enkomi" .
+<https://pepadb.us.es/#site_147> r-arco:archaeologicalSiteIdentifier "10";
+lgdo:ArchaeologicalSite "Penedos de São Miguel" .
+<https://pepadb.us.es/#site_148> r-arco:archaeologicalSiteIdentifier "11";
+lgdo:ArchaeologicalSite "Zambujeiro" .
+<https://pepadb.us.es/#site_149> r-arco:archaeologicalSiteIdentifier "71";
+lgdo:ArchaeologicalSite "Campo de Hockey" .
+<https://pepadb.us.es/#site_150> r-arco:archaeologicalSiteIdentifier "103";
+lgdo:ArchaeologicalSite "Cova del Garrofer" .
+<https://pepadb.us.es/#site_151> r-arco:archaeologicalSiteIdentifier "123";
+lgdo:ArchaeologicalSite "Dolmen del Juncal" .
+<https://pepadb.us.es/#site_152> r-arco:archaeologicalSiteIdentifier "157";
+lgdo:ArchaeologicalSite "Errekatxuetako Atxa" .
+<https://pepadb.us.es/#site_153> r-arco:archaeologicalSiteIdentifier "158";
+lgdo:ArchaeologicalSite "Eschoncan Fell" .
+<https://pepadb.us.es/#site_154> r-arco:archaeologicalSiteIdentifier "159";
+lgdo:ArchaeologicalSite "Estructura 10.042-10.049 (PP4 Montelirio)" .
+<https://pepadb.us.es/#site_155> r-arco:archaeologicalSiteIdentifier "160";
+lgdo:ArchaeologicalSite "Feltwell Fen" .
+<https://pepadb.us.es/#site_156> r-arco:archaeologicalSiteIdentifier "161";
+lgdo:ArchaeologicalSite "Fiavè" .
+<https://pepadb.us.es/#site_157> r-arco:archaeologicalSiteIdentifier "162";
+lgdo:ArchaeologicalSite "Forat de Conqueta" .
+<https://pepadb.us.es/#site_158> r-arco:archaeologicalSiteIdentifier "163";
+lgdo:ArchaeologicalSite "Forêt des Moidons" .
+<https://pepadb.us.es/#site_159> r-arco:archaeologicalSiteIdentifier "164";
+lgdo:ArchaeologicalSite "Fossa del Gegant" .
+<https://pepadb.us.es/#site_160> r-arco:archaeologicalSiteIdentifier "165";
+lgdo:ArchaeologicalSite "Frattesina" .
+<https://pepadb.us.es/#site_161> r-arco:archaeologicalSiteIdentifier "166";
+lgdo:ArchaeologicalSite "Fuentepecina" .
+<https://pepadb.us.es/#site_162> r-arco:archaeologicalSiteIdentifier "167";
+lgdo:ArchaeologicalSite "Füzesabony" .
+<https://pepadb.us.es/#site_163> r-arco:archaeologicalSiteIdentifier "168";
+lgdo:ArchaeologicalSite "Glastonbury Lake Village" .
+<https://pepadb.us.es/#site_164> r-arco:archaeologicalSiteIdentifier "169";
+lgdo:ArchaeologicalSite "Glen Avenue" .
+<https://pepadb.us.es/#site_165> r-arco:archaeologicalSiteIdentifier "170";
+lgdo:ArchaeologicalSite "Glenluce" .
+<https://pepadb.us.es/#site_166> r-arco:archaeologicalSiteIdentifier "171";
+lgdo:ArchaeologicalSite "Gours-aux-Lions" .
+<https://pepadb.us.es/#site_167> r-arco:archaeologicalSiteIdentifier "172";
+lgdo:ArchaeologicalSite "Greenbrae" .
+<https://pepadb.us.es/#site_168> r-arco:archaeologicalSiteIdentifier "173";
+lgdo:ArchaeologicalSite "Grotta Manaccora" .
+<https://pepadb.us.es/#site_169> r-arco:archaeologicalSiteIdentifier "174";
+lgdo:ArchaeologicalSite "Grotte au Collier" .
+<https://pepadb.us.es/#site_170> r-arco:archaeologicalSiteIdentifier "175";
+lgdo:ArchaeologicalSite "Grotte Basse de la Vigne Perdue" .
+<https://pepadb.us.es/#site_171> r-arco:archaeologicalSiteIdentifier "176";
+lgdo:ArchaeologicalSite "Grotte de la Madeleine" .
+<https://pepadb.us.es/#site_172> r-arco:archaeologicalSiteIdentifier "177";
+lgdo:ArchaeologicalSite "Grotte de la Roche" .
+<https://pepadb.us.es/#site_173> r-arco:archaeologicalSiteIdentifier "178";
+lgdo:ArchaeologicalSite "Grotte de La Trone" .
+<https://pepadb.us.es/#site_174> r-arco:archaeologicalSiteIdentifier "179";
+lgdo:ArchaeologicalSite "Grotte de Lombrives" .
+<https://pepadb.us.es/#site_175> r-arco:archaeologicalSiteIdentifier "180";
+lgdo:ArchaeologicalSite "Grotte de Nizas" .
+<https://pepadb.us.es/#site_176> r-arco:archaeologicalSiteIdentifier "181";
+lgdo:ArchaeologicalSite "Grotte de Sigottier" .
+<https://pepadb.us.es/#site_177> r-arco:archaeologicalSiteIdentifier "182";
+lgdo:ArchaeologicalSite "Grotte des Duffaits" .
+<https://pepadb.us.es/#site_178> r-arco:archaeologicalSiteIdentifier "183";
+lgdo:ArchaeologicalSite "Grotte des Fées" .
+<https://pepadb.us.es/#site_179> r-arco:archaeologicalSiteIdentifier "184";
+lgdo:ArchaeologicalSite "Grotte du Cimetière" .
+<https://pepadb.us.es/#site_180> r-arco:archaeologicalSiteIdentifier "185";
+lgdo:ArchaeologicalSite "Grotte du Gazel 2" .
+<https://pepadb.us.es/#site_181> r-arco:archaeologicalSiteIdentifier "186";
+lgdo:ArchaeologicalSite "Grotte du Hasard - Cimetière" .
+<https://pepadb.us.es/#site_182> r-arco:archaeologicalSiteIdentifier "187";
+lgdo:ArchaeologicalSite "Grotte Murée" .
+<https://pepadb.us.es/#site_183> r-arco:archaeologicalSiteIdentifier "188";
+lgdo:ArchaeologicalSite "Gruta des Cloches" .
+<https://pepadb.us.es/#site_184> r-arco:archaeologicalSiteIdentifier "189";
+lgdo:ArchaeologicalSite "Gruta do Correio-Mor" .
+<https://pepadb.us.es/#site_185> r-arco:archaeologicalSiteIdentifier "190";
+lgdo:ArchaeologicalSite "Gruta Monier" .
+<https://pepadb.us.es/#site_186> r-arco:archaeologicalSiteIdentifier "191";
+lgdo:ArchaeologicalSite "Haguenau-Dachshübel" .
+<https://pepadb.us.es/#site_187> r-arco:archaeologicalSiteIdentifier "192";
+lgdo:ArchaeologicalSite "Ham Hill - Site 3" .
+<https://pepadb.us.es/#site_188> r-arco:archaeologicalSiteIdentifier "193";
+lgdo:ArchaeologicalSite "Heathery Burn Cave" .
+<https://pepadb.us.es/#site_189> r-arco:archaeologicalSiteIdentifier "194";
+lgdo:ArchaeologicalSite "Hengistbury Head" .
+<https://pepadb.us.es/#site_190> r-arco:archaeologicalSiteIdentifier "195";
+lgdo:ArchaeologicalSite "Hernádkak" .
+<https://pepadb.us.es/#site_191> r-arco:archaeologicalSiteIdentifier "196";
+lgdo:ArchaeologicalSite "Herrerías II" .
+<https://pepadb.us.es/#site_192> r-arco:archaeologicalSiteIdentifier "197";
+lgdo:ArchaeologicalSite "Ialysos" .
+<https://pepadb.us.es/#site_193> r-arco:archaeologicalSiteIdentifier "198";
+lgdo:ArchaeologicalSite "Iglarevo" .
+<https://pepadb.us.es/#site_194> r-arco:archaeologicalSiteIdentifier "199";
+lgdo:ArchaeologicalSite "Ivory" .
+<https://pepadb.us.es/#site_195> r-arco:archaeologicalSiteIdentifier "200";
+lgdo:ArchaeologicalSite "Kalbaki" .
+<https://pepadb.us.es/#site_196> r-arco:archaeologicalSiteIdentifier "201";
+lgdo:ArchaeologicalSite "Kalkani" .
+<https://pepadb.us.es/#site_197> lgdo:ArchaeologicalSite "Kellythorpe";
+r-arco:archaeologicalSiteIdentifier "202" .
+<https://pepadb.us.es/#site_198> r-arco:archaeologicalSiteIdentifier "203";
+lgdo:ArchaeologicalSite "Kent's Cavern" .
+<https://pepadb.us.es/#site_199> r-arco:archaeologicalSiteIdentifier "204";
+lgdo:ArchaeologicalSite "Kernonen-en-Plouvorn" .
+<https://pepadb.us.es/#site_200> r-arco:archaeologicalSiteIdentifier "205";
+lgdo:ArchaeologicalSite "Kerstrobel" .
+<https://pepadb.us.es/#site_201> r-arco:archaeologicalSiteIdentifier "206";
+lgdo:ArchaeologicalSite "Kilham long barrow" .
+<https://pepadb.us.es/#site_202> r-arco:archaeologicalSiteIdentifier "207";
+lgdo:ArchaeologicalSite "Kirchlach" .
+<https://pepadb.us.es/#site_203> r-arco:archaeologicalSiteIdentifier "208";
+lgdo:ArchaeologicalSite "Knossos" .
+<https://pepadb.us.es/#site_204> r-arco:archaeologicalSiteIdentifier "209";
+lgdo:ArchaeologicalSite "Knowes of Trotty barrow cemetery" .
+<https://pepadb.us.es/#site_205> r-arco:archaeologicalSiteIdentifier "210";
+lgdo:ArchaeologicalSite "Königsbrück" .
+<https://pepadb.us.es/#site_206> r-arco:archaeologicalSiteIdentifier "211";
+lgdo:ArchaeologicalSite "Kötegyán" .
+<https://pepadb.us.es/#site_207> r-arco:archaeologicalSiteIdentifier "212";
+lgdo:ArchaeologicalSite "Koukounara" .
+<https://pepadb.us.es/#site_208> r-arco:archaeologicalSiteIdentifier "213";
+lgdo:ArchaeologicalSite "Kurd" .
+<https://pepadb.us.es/#site_209> r-arco:archaeologicalSiteIdentifier "214";
+lgdo:ArchaeologicalSite "Kydonia" .
+<https://pepadb.us.es/#site_210> r-arco:archaeologicalSiteIdentifier "215";
+lgdo:ArchaeologicalSite "La Almoloya T-38" .
+<https://pepadb.us.es/#site_211> r-arco:archaeologicalSiteIdentifier "216";
+lgdo:ArchaeologicalSite "La Brújula" .
+<https://pepadb.us.es/#site_212> r-arco:archaeologicalSiteIdentifier "217";
+lgdo:ArchaeologicalSite "La Cabaña" .
+<https://pepadb.us.es/#site_213> r-arco:archaeologicalSiteIdentifier "218";
+lgdo:ArchaeologicalSite "La Canourgue" .
+<https://pepadb.us.es/#site_214> r-arco:archaeologicalSiteIdentifier "219";
+lgdo:ArchaeologicalSite "La Casa de los Moros" .
+<https://pepadb.us.es/#site_215> r-arco:archaeologicalSiteIdentifier "221";
+lgdo:ArchaeologicalSite "La Ermita - Dolmen de Galisancho" .
+<https://pepadb.us.es/#site_216> r-arco:archaeologicalSiteIdentifier "222";
+lgdo:ArchaeologicalSite "La Mina de Alcubilla" .
+<https://pepadb.us.es/#site_217> r-arco:archaeologicalSiteIdentifier "223";
+lgdo:ArchaeologicalSite "La Motte-aux-Magnins" .
+<https://pepadb.us.es/#site_218> r-arco:archaeologicalSiteIdentifier "224";
+lgdo:ArchaeologicalSite "La Pinilla" .
+<https://pepadb.us.es/#site_219> r-arco:archaeologicalSiteIdentifier "225";
+lgdo:ArchaeologicalSite "La Sabina 49 - Hoya de los Castellones 38" .
+<https://pepadb.us.es/#site_220> r-arco:archaeologicalSiteIdentifier "226";
+lgdo:ArchaeologicalSite "La Sima II" .
+<https://pepadb.us.es/#site_221> r-arco:archaeologicalSiteIdentifier "227";
+lgdo:ArchaeologicalSite "La Tarayuela" .
+<https://pepadb.us.es/#site_222> r-arco:archaeologicalSiteIdentifier "228";
+lgdo:ArchaeologicalSite "La Veguilla I" .
+<https://pepadb.us.es/#site_223> r-arco:archaeologicalSiteIdentifier "229";
+lgdo:ArchaeologicalSite "La Velilla" .
+<https://pepadb.us.es/#site_224> r-arco:archaeologicalSiteIdentifier "230";
+lgdo:ArchaeologicalSite "La Veredilla" .
+<https://pepadb.us.es/#site_225> r-arco:archaeologicalSiteIdentifier "231";
+lgdo:ArchaeologicalSite "Lake group, Barrow G47, 49 or 50" .
+<https://pepadb.us.es/#site_226> r-arco:archaeologicalSiteIdentifier "232";
+lgdo:ArchaeologicalSite "Lann Porz Menec'h" .
+<https://pepadb.us.es/#site_227> r-arco:archaeologicalSiteIdentifier "233";
+lgdo:ArchaeologicalSite "Larrarte" .
+<https://pepadb.us.es/#site_228> r-arco:archaeologicalSiteIdentifier "234";
+lgdo:ArchaeologicalSite "Las Arnillas" .
+<https://pepadb.us.es/#site_229> r-arco:archaeologicalSiteIdentifier "235";
+lgdo:ArchaeologicalSite "Le Chamblon" .
+<https://pepadb.us.es/#site_230> r-arco:archaeologicalSiteIdentifier "236";
+lgdo:ArchaeologicalSite "Ledro" .
+<https://pepadb.us.es/#site_231> r-arco:archaeologicalSiteIdentifier "237";
+lgdo:ArchaeologicalSite "Les Cents Arpents" .
+<https://pepadb.us.es/#site_232> r-arco:archaeologicalSiteIdentifier "238";
+lgdo:ArchaeologicalSite "Lingolsheim" .
+<https://pepadb.us.es/#site_233> r-arco:archaeologicalSiteIdentifier "239";
+lgdo:ArchaeologicalSite "Lipari" .
+<https://pepadb.us.es/#site_234> r-arco:archaeologicalSiteIdentifier "240";
+lgdo:ArchaeologicalSite "Llano de la Sabina" .
+<https://pepadb.us.es/#site_235> r-arco:archaeologicalSiteIdentifier "241";
+lgdo:ArchaeologicalSite "Llano de la Teja" .
+<https://pepadb.us.es/#site_236> r-arco:archaeologicalSiteIdentifier "242";
+lgdo:ArchaeologicalSite "Los Arenales" .
+<https://pepadb.us.es/#site_237> r-arco:archaeologicalSiteIdentifier "243";
+lgdo:ArchaeologicalSite "Los Delgados" .
+<https://pepadb.us.es/#site_238> r-arco:archaeologicalSiteIdentifier "244";
+lgdo:ArchaeologicalSite "Los Itueros" .
+<https://pepadb.us.es/#site_239> r-arco:archaeologicalSiteIdentifier "245";
+lgdo:ArchaeologicalSite "Los Lagos " .
+<https://pepadb.us.es/#site_240> r-arco:archaeologicalSiteIdentifier "246";
+lgdo:ArchaeologicalSite "Los Lastros" .
+<https://pepadb.us.es/#site_241> r-arco:archaeologicalSiteIdentifier "247";
+lgdo:ArchaeologicalSite "Los Millares" .
+<https://pepadb.us.es/#site_242> r-arco:archaeologicalSiteIdentifier "248";
+lgdo:ArchaeologicalSite "Los Paradores" .
+<https://pepadb.us.es/#site_243> r-arco:archaeologicalSiteIdentifier "249";
+lgdo:ArchaeologicalSite "Los Zumacales" .
+<https://pepadb.us.es/#site_244> r-arco:archaeologicalSiteIdentifier "250";
+lgdo:ArchaeologicalSite "Maccarrone di Adrano" .
+<https://pepadb.us.es/#site_245> r-arco:archaeologicalSiteIdentifier "251";
+lgdo:ArchaeologicalSite "Mains of Concraig" .
+<https://pepadb.us.es/#site_246> r-arco:archaeologicalSiteIdentifier "252";
+lgdo:ArchaeologicalSite "Mámoa V de Chã de Arcas" .
+<https://pepadb.us.es/#site_247> r-arco:archaeologicalSiteIdentifier "253";
+lgdo:ArchaeologicalSite "MARC3" .
+<https://pepadb.us.es/#site_248> r-arco:archaeologicalSiteIdentifier "254";
+lgdo:ArchaeologicalSite "Marolles-sur-Seine" .
+<https://pepadb.us.es/#site_249> r-arco:archaeologicalSiteIdentifier "255";
+lgdo:ArchaeologicalSite "Mas-Saint-Chély" .
+<https://pepadb.us.es/#site_250> r-arco:archaeologicalSiteIdentifier "256";
+lgdo:ArchaeologicalSite "Meare Lake Village" .
+<https://pepadb.us.es/#site_251> r-arco:archaeologicalSiteIdentifier "257";
+lgdo:ArchaeologicalSite "Mega Monastirion" .
+<https://pepadb.us.es/#site_252> r-arco:archaeologicalSiteIdentifier "258";
+lgdo:ArchaeologicalSite "Megyaszó" .
+<https://pepadb.us.es/#site_253> r-arco:archaeologicalSiteIdentifier "259";
+lgdo:ArchaeologicalSite "Mellenside" .
+<https://pepadb.us.es/#site_254> r-arco:archaeologicalSiteIdentifier "260";
+lgdo:ArchaeologicalSite "Mende-Leányvár" .
+<https://pepadb.us.es/#site_255> r-arco:archaeologicalSiteIdentifier "261";
+lgdo:ArchaeologicalSite "Méréaucourt" .
+<https://pepadb.us.es/#site_256> r-arco:archaeologicalSiteIdentifier "262";
+lgdo:ArchaeologicalSite "Middle Hill - Barrow G5" .
+<https://pepadb.us.es/#site_257> r-arco:archaeologicalSiteIdentifier "263";
+lgdo:ArchaeologicalSite "Montagnac-Montpezat" .
+<https://pepadb.us.es/#site_258> r-arco:archaeologicalSiteIdentifier "264";
+lgdo:ArchaeologicalSite "Monte San Paolillo" .
+<https://pepadb.us.es/#site_259> r-arco:archaeologicalSiteIdentifier "265";
+lgdo:ArchaeologicalSite "Moreirinha" .
+<https://pepadb.us.es/#site_260> r-arco:archaeologicalSiteIdentifier "266";
+lgdo:ArchaeologicalSite "Mound on Keiss Moor" .
+<https://pepadb.us.es/#site_261> r-arco:archaeologicalSiteIdentifier "267";
+lgdo:ArchaeologicalSite "Mycenae" .
+<https://pepadb.us.es/#site_262> r-arco:archaeologicalSiteIdentifier "268";
+lgdo:ArchaeologicalSite "Nava Alta" .
+<https://pepadb.us.es/#site_263> r-arco:archaeologicalSiteIdentifier "269";
+lgdo:ArchaeologicalSite "Near Glentanar House" .
+<https://pepadb.us.es/#site_264> r-arco:archaeologicalSiteIdentifier "270";
+lgdo:ArchaeologicalSite "Near Peacock Farm" .
+<https://pepadb.us.es/#site_265> r-arco:archaeologicalSiteIdentifier "271";
+lgdo:ArchaeologicalSite "Near Wolley barrow" .
+<https://pepadb.us.es/#site_266> r-arco:archaeologicalSiteIdentifier "272";
+lgdo:ArchaeologicalSite "Nécropole de Chenon" .
+<https://pepadb.us.es/#site_267> r-arco:archaeologicalSiteIdentifier "273";
+lgdo:ArchaeologicalSite "Nichoria" .
+<https://pepadb.us.es/#site_268> r-arco:archaeologicalSiteIdentifier "274";
+lgdo:ArchaeologicalSite "Nora Velha 1 - Barranco da Nora Velha" .
+<https://pepadb.us.es/#site_269> r-arco:archaeologicalSiteIdentifier "275";
+lgdo:ArchaeologicalSite "Olmo di Nogara" .
+<https://pepadb.us.es/#site_270> r-arco:archaeologicalSiteIdentifier "276";
+lgdo:ArchaeologicalSite "Orca de Seixas" .
+<https://pepadb.us.es/#site_271> r-arco:archaeologicalSiteIdentifier "277";
+lgdo:ArchaeologicalSite "Oyes" .
+<https://pepadb.us.es/#site_272> r-arco:archaeologicalSiteIdentifier "278";
+lgdo:ArchaeologicalSite "Palisade Barrow cementery" .
+<https://pepadb.us.es/#site_273> r-arco:archaeologicalSiteIdentifier "279";
+lgdo:ArchaeologicalSite "Paraje de Montebajo - Tumba 3" .
+<https://pepadb.us.es/#site_274> r-arco:archaeologicalSiteIdentifier "280";
+lgdo:ArchaeologicalSite "Peña del Águila" .
+<https://pepadb.us.es/#site_275> r-arco:archaeologicalSiteIdentifier "281";
+lgdo:ArchaeologicalSite "Peña Negra" .
+<https://pepadb.us.es/#site_276> r-arco:archaeologicalSiteIdentifier "282";
+lgdo:ArchaeologicalSite "Peñas Quiruelas" .
+<https://pepadb.us.es/#site_277> r-arco:archaeologicalSiteIdentifier "283";
+lgdo:ArchaeologicalSite "Peñas Villardondiego" .
+<https://pepadb.us.es/#site_278> r-arco:archaeologicalSiteIdentifier "284";
+lgdo:ArchaeologicalSite "Perati" .
+<https://pepadb.us.es/#site_279> r-arco:archaeologicalSiteIdentifier "286";
+lgdo:ArchaeologicalSite "Peristeria" .
+<https://pepadb.us.es/#site_280> r-arco:archaeologicalSiteIdentifier "287";
+lgdo:ArchaeologicalSite "Picón del Rey" .
+<https://pepadb.us.es/#site_281> lgdo:ArchaeologicalSite "Pin Farm barrow";
+r-arco:archaeologicalSiteIdentifier "288" .
+<https://pepadb.us.es/#site_282> r-arco:archaeologicalSiteIdentifier "289";
+lgdo:ArchaeologicalSite "Plemmirio" .
+<https://pepadb.us.es/#site_283> r-arco:archaeologicalSiteIdentifier "290";
+lgdo:ArchaeologicalSite "Plobannalec" .
+<https://pepadb.us.es/#site_284> r-arco:archaeologicalSiteIdentifier "291";
+lgdo:ArchaeologicalSite "Pombais - Anta dos Pombais" .
+<https://pepadb.us.es/#site_285> r-arco:archaeologicalSiteIdentifier "292";
+lgdo:ArchaeologicalSite "Pont-de-Roide" .
+<https://pepadb.us.es/#site_286> r-arco:archaeologicalSiteIdentifier "293";
+lgdo:ArchaeologicalSite "Portella" .
+<https://pepadb.us.es/#site_287> r-arco:archaeologicalSiteIdentifier "294";
+lgdo:ArchaeologicalSite "Portsdown - Southwick" .
+<https://pepadb.us.es/#site_288> r-arco:archaeologicalSiteIdentifier "295";
+lgdo:ArchaeologicalSite "Pötréte" .
+<https://pepadb.us.es/#site_289> r-arco:archaeologicalSiteIdentifier "296";
+lgdo:ArchaeologicalSite "Potterne" .
+<https://pepadb.us.es/#site_290> r-arco:archaeologicalSiteIdentifier "297";
+lgdo:ArchaeologicalSite "Pougues-les-Eaux" .
+<https://pepadb.us.es/#site_291> r-arco:archaeologicalSiteIdentifier "298";
+lgdo:ArchaeologicalSite "Prado de la Nava" .
+<https://pepadb.us.es/#site_292> r-arco:archaeologicalSiteIdentifier "299";
+lgdo:ArchaeologicalSite "Prado de las Cruces" .
+<https://pepadb.us.es/#site_293> r-arco:archaeologicalSiteIdentifier "300";
+lgdo:ArchaeologicalSite "Pragança" .
+<https://pepadb.us.es/#site_294> r-arco:archaeologicalSiteIdentifier "301";
+lgdo:ArchaeologicalSite "Precevo-Boka" .
+<https://pepadb.us.es/#site_295> r-arco:archaeologicalSiteIdentifier "302";
+lgdo:ArchaeologicalSite "Promontory Henllan" .
+<https://pepadb.us.es/#site_296> r-arco:archaeologicalSiteIdentifier "303";
+lgdo:ArchaeologicalSite "Prosymna" .
+<https://pepadb.us.es/#site_297> r-arco:archaeologicalSiteIdentifier "304";
+lgdo:ArchaeologicalSite "Quinta do Marcelo" .
+<https://pepadb.us.es/#site_298> r-arco:archaeologicalSiteIdentifier "305";
+lgdo:ArchaeologicalSite "Radwell Ring-ditch II" .
+<https://pepadb.us.es/#site_299> r-arco:archaeologicalSiteIdentifier "306";
+lgdo:ArchaeologicalSite "Regöly - Kesziállás" .
+<https://pepadb.us.es/#site_300> r-arco:archaeologicalSiteIdentifier "307";
+lgdo:ArchaeologicalSite "Reguero Seco" .
+<https://pepadb.us.es/#site_301> r-arco:archaeologicalSiteIdentifier "308";
+lgdo:ArchaeologicalSite "River Thames at Runnymede Bridge" .
+<https://pepadb.us.es/#site_302> r-arco:archaeologicalSiteIdentifier "309";
+lgdo:ArchaeologicalSite "Rocher de Comboire" .
+<https://pepadb.us.es/#site_303> r-arco:archaeologicalSiteIdentifier "310";
+lgdo:ArchaeologicalSite "Rochford" .
+<https://pepadb.us.es/#site_304> lgdo:ArchaeologicalSite "Saint-Fiacre-en-Melran";
+r-arco:archaeologicalSiteIdentifier "311" .
+<https://pepadb.us.es/#site_305> r-arco:archaeologicalSiteIdentifier "312";
+lgdo:ArchaeologicalSite "Saint-Rémy-de-Provence" .
+<https://pepadb.us.es/#site_306> r-arco:archaeologicalSiteIdentifier "313";
+lgdo:ArchaeologicalSite "Salisbury Plain" .
+<https://pepadb.us.es/#site_307> r-arco:archaeologicalSiteIdentifier "314";
+lgdo:ArchaeologicalSite "San Adrián" .
+<https://pepadb.us.es/#site_308> r-arco:archaeologicalSiteIdentifier "315";
+lgdo:ArchaeologicalSite "São Paulo 2" .
+<https://pepadb.us.es/#site_309> r-arco:archaeologicalSiteIdentifier "316";
+lgdo:ArchaeologicalSite "Schelmen - Hofstadt" .
+<https://pepadb.us.es/#site_310> r-arco:archaeologicalSiteIdentifier "317";
+lgdo:ArchaeologicalSite "Scratchbury Barrow G1" .
+<https://pepadb.us.es/#site_311> r-arco:archaeologicalSiteIdentifier "318";
+lgdo:ArchaeologicalSite "Sculptor's Cave" .
+<https://pepadb.us.es/#site_312> r-arco:archaeologicalSiteIdentifier "319";
+lgdo:ArchaeologicalSite "Sepulcre de Bullons" .
+<https://pepadb.us.es/#site_313> r-arco:archaeologicalSiteIdentifier "320";
+lgdo:ArchaeologicalSite "Sepulcro de Can Cuca" .
+<https://pepadb.us.es/#site_314> lgdo:ArchaeologicalSite "Sepulcro de Can Rajolí";
+r-arco:archaeologicalSiteIdentifier "321" .
+<https://pepadb.us.es/#site_315> r-arco:archaeologicalSiteIdentifier "322";
+lgdo:ArchaeologicalSite "Sepulcro de la Pera" .
+<https://pepadb.us.es/#site_316> r-arco:archaeologicalSiteIdentifier "323";
+lgdo:ArchaeologicalSite "Sepulcro de Pedra Cabana" .
+<https://pepadb.us.es/#site_317> r-arco:archaeologicalSiteIdentifier "324";
+lgdo:ArchaeologicalSite "Sepulcro del Collet" .
+<https://pepadb.us.es/#site_318> r-arco:archaeologicalSiteIdentifier "325";
+lgdo:ArchaeologicalSite "Sepulcro I de El Bosc" .
+<https://pepadb.us.es/#site_319> r-arco:archaeologicalSiteIdentifier "326";
+lgdo:ArchaeologicalSite "Sepulture Lesconil" .
+<https://pepadb.us.es/#site_320> r-arco:archaeologicalSiteIdentifier "327";
+lgdo:ArchaeologicalSite "Serre de Bouisset" .
+<https://pepadb.us.es/#site_321> r-arco:archaeologicalSiteIdentifier "328";
+lgdo:ArchaeologicalSite "Shaft Grave Omicron" .
+<https://pepadb.us.es/#site_322> r-arco:archaeologicalSiteIdentifier "329";
+lgdo:ArchaeologicalSite "Sigottier" .
+<https://pepadb.us.es/#site_323> r-arco:archaeologicalSiteIdentifier "330";
+lgdo:ArchaeologicalSite "Snail Down" .
+<https://pepadb.us.es/#site_324> r-arco:archaeologicalSiteIdentifier "331";
+lgdo:ArchaeologicalSite "Sorel-Moussel" .
+<https://pepadb.us.es/#site_325> r-arco:archaeologicalSiteIdentifier "332";
+lgdo:ArchaeologicalSite "Stanfordbury burial B" .
+<https://pepadb.us.es/#site_326> r-arco:archaeologicalSiteIdentifier "333";
+lgdo:ArchaeologicalSite "Steep Lowe" .
+<https://pepadb.us.es/#site_327> r-arco:archaeologicalSiteIdentifier "334";
+lgdo:ArchaeologicalSite "Szoreg" .
+<https://pepadb.us.es/#site_328> r-arco:archaeologicalSiteIdentifier "335";
+lgdo:ArchaeologicalSite "Tap O'Noth hillfort" .
+<https://pepadb.us.es/#site_329> r-arco:archaeologicalSiteIdentifier "336";
+lgdo:ArchaeologicalSite "Teikhos Dymaion" .
+<https://pepadb.us.es/#site_330> r-arco:archaeologicalSiteIdentifier "337";
+lgdo:ArchaeologicalSite "Tesoro de Villena" .
+<https://pepadb.us.es/#site_331> r-arco:archaeologicalSiteIdentifier "338";
+lgdo:ArchaeologicalSite "Thapsos" .
+<https://pepadb.us.es/#site_332> r-arco:archaeologicalSiteIdentifier "339";
+lgdo:ArchaeologicalSite "The Golden Barrow" .
+<https://pepadb.us.es/#site_333> r-arco:archaeologicalSiteIdentifier "340";
+lgdo:ArchaeologicalSite "Tholos de La Pastora" .
+<https://pepadb.us.es/#site_334> r-arco:archaeologicalSiteIdentifier "341";
+lgdo:ArchaeologicalSite "Tholos de Montelirio" .
+<https://pepadb.us.es/#site_335> r-arco:archaeologicalSiteIdentifier "342";
+lgdo:ArchaeologicalSite "Tholos de Palacio III" .
+<https://pepadb.us.es/#site_336> r-arco:archaeologicalSiteIdentifier "343";
+lgdo:ArchaeologicalSite "Tholos Kakovatos" .
+<https://pepadb.us.es/#site_337> r-arco:archaeologicalSiteIdentifier "344";
+lgdo:ArchaeologicalSite "Thor's Fissure Cave" .
+<https://pepadb.us.es/#site_338> r-arco:archaeologicalSiteIdentifier "345";
+lgdo:ArchaeologicalSite "Tierras Lineras" .
+<https://pepadb.us.es/#site_339> r-arco:archaeologicalSiteIdentifier "346";
+lgdo:ArchaeologicalSite "Tiszakeszi - Szódadomb" .
+<https://pepadb.us.es/#site_340> lgdo:ArchaeologicalSite "Tor Mead";
+r-arco:archaeologicalSiteIdentifier "347" .
+<https://pepadb.us.es/#site_341> r-arco:archaeologicalSiteIdentifier "348";
+lgdo:ArchaeologicalSite "Trikuaizti I" .
+<https://pepadb.us.es/#site_342> r-arco:archaeologicalSiteIdentifier "349";
+lgdo:ArchaeologicalSite "Trinitapoli" .
+<https://pepadb.us.es/#site_343> r-arco:archaeologicalSiteIdentifier "350";
+lgdo:ArchaeologicalSite "Túmulo de St Fiacre" .
+<https://pepadb.us.es/#site_344> r-arco:archaeologicalSiteIdentifier "351";
+lgdo:ArchaeologicalSite "Tumulus de Kernonen" .
+<https://pepadb.us.es/#site_345> r-arco:archaeologicalSiteIdentifier "352";
+lgdo:ArchaeologicalSite "Tumulus de La Fôret" .
+<https://pepadb.us.es/#site_346> r-arco:archaeologicalSiteIdentifier "353";
+lgdo:ArchaeologicalSite "Tumulus du Ballon" .
+<https://pepadb.us.es/#site_347> r-arco:archaeologicalSiteIdentifier "354";
+lgdo:ArchaeologicalSite "Tumulus Rosshire" .
+<https://pepadb.us.es/#site_348> r-arco:archaeologicalSiteIdentifier "355";
+lgdo:ArchaeologicalSite "Ty Mawr Farm" .
+<https://pepadb.us.es/#site_349> r-arco:archaeologicalSiteIdentifier "356";
+lgdo:ArchaeologicalSite "Ulrome" .
+<https://pepadb.us.es/#site_350> r-arco:archaeologicalSiteIdentifier "357";
+lgdo:ArchaeologicalSite "Valdefinjas" .
+<https://pepadb.us.es/#site_351> r-arco:archaeologicalSiteIdentifier "358";
+lgdo:ArchaeologicalSite "Valle de las Higueras" .
+<https://pepadb.us.es/#site_352> r-arco:archaeologicalSiteIdentifier "359";
+lgdo:ArchaeologicalSite "Valsavoia" .
+<https://pepadb.us.es/#site_353> r-arco:archaeologicalSiteIdentifier "360";
+lgdo:ArchaeologicalSite "Westbury Ironworks" .
+<https://pepadb.us.es/#site_354> r-arco:archaeologicalSiteIdentifier "361";
+lgdo:ArchaeologicalSite "Whitegrounds round barrow" .
+<https://pepadb.us.es/#site_355> lgdo:ArchaeologicalSite "Wick Farm - Ring ditch 16";
+r-arco:archaeologicalSiteIdentifier "362" .
+<https://pepadb.us.es/#site_356> r-arco:archaeologicalSiteIdentifier "363";
+lgdo:ArchaeologicalSite "Wigberlow barrow" .
+<https://pepadb.us.es/#site_357> r-arco:archaeologicalSiteIdentifier "364";
+lgdo:ArchaeologicalSite "Winterslow barrow JFSS3" .
+<https://pepadb.us.es/#site_358> r-arco:archaeologicalSiteIdentifier "365";
+lgdo:ArchaeologicalSite "Xanton - Chassenon" .
+<https://pepadb.us.es/#site_359> r-arco:archaeologicalSiteIdentifier "366";
+lgdo:ArchaeologicalSite "Zakynthos" .
+<https://pepadb.us.es/#site_360> r-arco:archaeologicalSiteIdentifier "367";
+lgdo:ArchaeologicalSite "Mycenae Aigisthos" .
+<https://pepadb.us.es/#site_361> r-arco:archaeologicalSiteIdentifier "368";
+lgdo:ArchaeologicalSite "Buraca da Moura da Rexaldia (Gruta da Rexaldia)" .
+<https://pepadb.us.es/#site_362> r-arco:archaeologicalSiteIdentifier "369";
+lgdo:ArchaeologicalSite "Alto da Feteira" .
+<https://pepadb.us.es/#site_363> r-arco:archaeologicalSiteIdentifier "370";
+lgdo:ArchaeologicalSite "Corominas 1" .
+<https://pepadb.us.es/#site_364> r-arco:archaeologicalSiteIdentifier "371";
+lgdo:ArchaeologicalSite "La Pijotilla" .
+<https://pepadb.us.es/#site_365> r-arco:archaeologicalSiteIdentifier "372";
+lgdo:ArchaeologicalSite "Cova Can Figueres" .
+<https://pepadb.us.es/#site_366> r-arco:archaeologicalSiteIdentifier "373";
+lgdo:ArchaeologicalSite "Gruta do Furadouro da Rocha Forte - Lapa da Amoreira" .
+<https://pepadb.us.es/#site_367> r-arco:archaeologicalSiteIdentifier "374";
+lgdo:ArchaeologicalSite "La Molina" .
+<https://pepadb.us.es/#site_368> r-arco:archaeologicalSiteIdentifier "375";
+lgdo:ArchaeologicalSite "Zambujal" .
+<https://pepadb.us.es/#site_369> r-arco:archaeologicalSiteIdentifier "376";
+lgdo:ArchaeologicalSite "Praia da Samarra" .
+<https://pepadb.us.es/#site_370> r-arco:archaeologicalSiteIdentifier "377";
+lgdo:ArchaeologicalSite "Grutas da Quinta do Anjo" .
+<https://pepadb.us.es/#site_371> r-arco:archaeologicalSiteIdentifier "378";
+lgdo:ArchaeologicalSite "Fuente Álamo" .
+<https://pepadb.us.es/#site_372> r-arco:archaeologicalSiteIdentifier "379";
+lgdo:ArchaeologicalSite "Cova da Moura" .
+<https://pepadb.us.es/#site_373> r-arco:archaeologicalSiteIdentifier "380";
+lgdo:ArchaeologicalSite "Costamar" .
+<https://pepadb.us.es/#site_374> r-arco:archaeologicalSiteIdentifier "285";
+lgdo:ArchaeologicalSite "Perdigões" .
+<https://pepadb.us.es/#site_375> r-arco:archaeologicalSiteIdentifier "381";
+lgdo:ArchaeologicalSite "Villevenard" .
+<https://pepadb.us.es/#site_376> r-arco:archaeologicalSiteIdentifier "382";
+lgdo:ArchaeologicalSite "Charavines" .
+<https://pepadb.us.es/#site_377> r-arco:archaeologicalSiteIdentifier "383";
+lgdo:ArchaeologicalSite "Annecy" .
+<https://pepadb.us.es/#site_378> r-arco:archaeologicalSiteIdentifier "384";
+lgdo:ArchaeologicalSite "Epone" .
+<https://pepadb.us.es/#site_379> r-arco:archaeologicalSiteIdentifier "385";
+lgdo:ArchaeologicalSite "Flavacourt" .
+<https://pepadb.us.es/#site_380> r-arco:archaeologicalSiteIdentifier "386";
+lgdo:ArchaeologicalSite "Mériel" .
+<https://pepadb.us.es/#site_381> r-arco:archaeologicalSiteIdentifier "387";
+lgdo:ArchaeologicalSite "Chouilly" .
+<https://pepadb.us.es/#site_382> r-arco:archaeologicalSiteIdentifier "388";
+lgdo:ArchaeologicalSite "Ay Champagne" .
+<https://pepadb.us.es/#site_383> r-arco:archaeologicalSiteIdentifier "9";
+lgdo:ArchaeologicalSite "Pinheiro dos Abraços - Bobadela" .
