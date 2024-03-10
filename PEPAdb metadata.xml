@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:creator>Carlos Odriozola</dc:creator>
+  <dc:creator>Ana C. Sousa</dc:creator>
+  <dc:creator>José María Martínez-Blanes</dc:creator>
+  <dc:creator>José Ángel Garrido-Cordero</dc:creator>
+  <dc:creator>Galo Romero-García</dc:creator>
+  <dc:creator>Daniel Sánchez-Gómez</dc:creator>
+  <dc:date>2024-01-21</dc:date>
+  <dc:description>&amp;lt;p&amp;gt;Data from the PEPAdb project (https://pepadb.us.es/).&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- Raw data: sites.csv and structures.csv&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;- Processed data: records.csv and structuresRecords.csv&amp;lt;/p&amp;gt;</dc:description>
+  <dc:identifier>https://doi.org/10.5281/zenodo.10545573</dc:identifier>
+  <dc:identifier>oai:zenodo.org:10545573</dc:identifier>
+  <dc:language>eng</dc:language>
+  <dc:publisher>Zenodo</dc:publisher>
+  <dc:relation>https://doi.org/10.5281/zenodo.10545572</dc:relation>
+  <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+  <dc:rights>CC BY-NC-SA 4.0 DEED</dc:rights>
+  <dc:rights>https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1</dc:rights>
+  <dc:subject>Personal adornment</dc:subject>
+  <dc:subject>Data reusability</dc:subject>
+  <dc:subject>Funded research data</dc:subject>
+  <dc:title>PEPAdb (Prehistoric Europe's Personal Adornment database) raw and processed tabular data</dc:title>
+  <dc:type>info:eu-repo/semantics/other</dc:type>
+</oai_dc:dc>
