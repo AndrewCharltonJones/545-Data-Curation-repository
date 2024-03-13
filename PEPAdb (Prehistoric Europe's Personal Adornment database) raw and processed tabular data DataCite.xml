@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.10545573</identifier>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URL">https://zenodo.org/records/10545573</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="oai">oai:zenodo.org:10545573</alternateIdentifier>
+  </alternateIdentifiers>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Carlos Odriozola</creatorName>
+      <familyName>Carlos Odriozola</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-4411-2528</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/03yxnpp24" affiliationIdentifierScheme="ROR">Universidad de Sevilla</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Ana C. Sousa</creatorName>
+      <familyName>Ana C. Sousa</familyName>
+      <affiliation>Universidad de Lisboa</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">José María Martínez-Blanes</creatorName>
+      <familyName>José María Martínez-Blanes</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0001-7359-8195</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/03yxnpp24" affiliationIdentifierScheme="ROR">Universidad de Sevilla</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">José Ángel Garrido-Cordero</creatorName>
+      <familyName>José Ángel Garrido-Cordero</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-9585-7917</nameIdentifier>
+      <affiliation>Universidad de Lisboa</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Galo Romero-García</creatorName>
+      <familyName>Galo Romero-García</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0002-1533-5781</nameIdentifier>
+      <affiliation affiliationIdentifier="https://ror.org/03yxnpp24" affiliationIdentifierScheme="ROR">Universidad de Sevilla</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Daniel Sánchez-Gómez</creatorName>
+      <familyName>Daniel Sánchez-Gómez</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID">0000-0003-3179-3288</nameIdentifier>
+      <affiliation>Universidad de Lisboa</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>PEPAdb (Prehistoric Europe's Personal Adornment database) raw and processed tabular data</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2024</publicationYear>
+  <subjects>
+    <subject>Personal adornment</subject>
+    <subject>Data reusability</subject>
+    <subject>Funded research data</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2024-01-21</date>
+    <date dateType="Available">2022/2023</date>
+  </dates>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Dataset"></resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.10545572</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1">CC BY-NC-SA 4.0 DEED</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Data from the PEPAdb project (https://pepadb.us.es/).
+
+- Raw data: sites.csv and structures.csv
+
+- Processed data: records.csv and structuresRecords.csv</description>
+  </descriptions>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Ministerio de Ciencia e Innovación</funderName>
+      <funderIdentifier funderIdentifierType="Crossref Funder ID">10.13039/501100004837</funderIdentifier>
+      <awardNumber>PID2021-124421NB-I00</awardNumber>
+      <awardTitle> Arqueología de las falsificaciones y la percepción: adornos y autopercepción en el mediterráneo occidental</awardTitle>
+    </fundingReference>
+    <fundingReference>
+      <funderName>Consejería de Economía, Conocimiento, Empresas y Universidad</funderName>
+      <funderIdentifier funderIdentifierType="Crossref Funder ID">10.13039/100016970</funderIdentifier>
+      <awardNumber>P20_01080</awardNumber>
+      <awardTitle>Investigación y desarrollo de nuevas tecnologías para el discurso del poder: imitando adornos de ámbar en la prehistoria reciente de Iberia</awardTitle>
+    </fundingReference>
+  </fundingReferences>
+</resource>
